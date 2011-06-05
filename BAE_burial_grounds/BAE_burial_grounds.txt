@@ -4969,10 +4969,9 @@ this region and their ancestors.
 
 SUPPLEMENTAL NOTE.[1]
 
-
 BURIAL CEREMONIES OF THE HURONS.[2]
 
-/#
+
 Our savages are not savages as regards the duties which nature herself requires us
 to render to the dead. They do not yield in this respect to several nations much more
 civilized. You would say that all their labor and efforts were for scarcely anything
@@ -5014,14 +5013,12 @@ a very long time," &c. It is true that on this occasion they do not lack for con
 I am sometimes surprised to see them discourse a long time on this subject,
 and bring up, with much discretion, all considerations that may afford any consolation
 to the friends of the deceased.
-#/
 
 [Footnote 1: Referred to on p. 71.]
 
 [Footnote 2: Translated from Relations des Jésuites, 1636, pp. 128-139, by Miss Nora Thomas.]
 -----File: 177.png---\Over_50\kaet\\dmack\donovan\-------------------------
 
-/#
 Notice is also given of this death to the friends who live in other villages, and as
 each family employs another who has the care of their dead, they come as soon as
 possible to give orders about everything and to fix the day of the funeral. They
@@ -5083,9 +5080,7 @@ from the lips of the father of the child himself.
 
 When the funeral is over the mourning does not cease: the wife continues it all the
 year for her husband, the husband for the wife; but the grand mourning itself
-#/
 -----File: 178.png---\Over_50\stygiania\\dmack\donovan\--------------------
-/#
 lasts only ten days. During this time they remain lying on their mats wrapped in
 their robes, with their faces against the earth, without speaking or replying to anything,
 save <i>C[)o]ay</i>[** c[ou]ay ??], to those who come to visit them. They do not warm themselves in
@@ -5115,12 +5110,10 @@ him, after giving a grand feast to all the people of the country, to introduce h
 under this name, raises a body of free young men and goes to war to accomplish
 some brave feat which will show to the nation that he has not only inherited the name
 but also the bravery and courage of the deceased.
-#/
 
 
 THE SOLEMN FEAST OF THE DEAD.
 
-/#
 The feast of the dead is the most celebrated ceremony that takes place among the
 Hurons. They give it the name of festival for the reason, as I should say now, that
 when the bodies are taken from the cemeteries each captain makes a "feast to the
@@ -5151,9 +5144,7 @@ cause no hindrance to the spreading of the sacred Gospel. But I must touch brief
 upon the order and the events of the feast.
 
 The twelve years or more having expired, the old people and great men of the na-*
-#/
 -----File: 179.png---\dancingbarefoot\stygiania\\dmack\donovan\------------
-/#
 *tion assemble to decide upon the time when the feast shall be held, so as to satisfy
 all the people of the country and the outside nations who are to be invited.
 
@@ -5216,7 +5207,6 @@ makes a feast to its dead.
 
 Returning from this festival with a captain, who has considerable intelligence and
 who will be some day of high standing in the affairs of the country, I asked him why
-#/
 -----File: 180.png---\Over_50\stygiania\\dmack\donovan\--------------------
 they called the bones of the dead <i>Atisken</i>. He explained as clearly as he could, and
 I learned from what he said that many believe that we have two souls, both divisible
@@ -5574,4 +5564,378 @@ Your very humble and obedient servant in our Lord,
 From the residence of St. Joseph, among the Hurons, at the village called Ihonatiria,
 this 16th of July, 1636.
 -----File: 186.png---\huntsy\stygiania\\dmack\donovan\---------------------
-[Blank Page]
+
+
+
+
+INDEX
+
+
+/*
+Alexander, J. B., mounds on farm of 74
+ 
+Allamakee County, Iowa, mounds 26 
+
+Altar mounds 57, 58 
+
+Anderson, W. G., opened Wisconsin mounds 16 
+
+Anderson Township, Ohio, mounds 49 
+
+Andrews, E. B., on Ohio mounds 47, 48 
+
+Appalachian mound district and mounds 10, 61-86 
+
+Arkansas mounds 11 
+
+Armstrong, Thomas, on Wisconsin mounds 16 
+
+Ashland County, Ohio, mounds 47 
+
+Athens County, Ohio, mounds 47 
+
+
+Baldwin, J. D., on mound builders 83 
+
+Bartow County, Georgia, mounds 96-104 
+
+Bartram, William, description of Cherokee council house 87 
+
+Beverly on shell ornaments 92 
+
+Black Hawk's grave 33, 34 
+
+Boulware, J. N., mounds on farm of 44 
+
+Branson, Judge, opening of Wisconsin mounds by 18 
+
+Brebeuf, Jean, on burial ceremonies of the Hurons 71, 110-119 
+
+Brinton, D. G., on a burial mound 39 
+  on Indians as mound builders 84 
+
+Brown County, Illinois, mounds 39-41 
+
+Buffalo Creek, Worth Carolina, mounds near 68 
+
+Burial mounds of the northern sections of the United States, by Cyrus Thomas 3-119
+
+Burke County, North Carolina, mounds 73 
+
+Butler County, Ohio, archæology of 13 
+
+
+Caldwell County, North Carolina, mounds 61-71 
+
+Carr, Lucien, cited 84, 87, 88, 92 
+
+Cartersville, Georgia, mounds near 96-104 
+
+Case, H. B., on Indian burial customs 47 
+
+Charleston, West Virginia, mounds near 51, 53, 55 
+
+Chattanooga, Tennessee, mounds near 77 
+
+Chelaque identical with Cherokee 89
+
+Cherokee, the, probably mound builders 60, 87-107 
+
+Cherokee and Tallegwi, relation of 60 
+
+Chillicothe, Ohio, mounds 46 
+
+Clarke, F. W., analyzed iron from mounds 91 
+
+Clarke County, Missouri, mounds 43 
+
+Clifton, West Virginia, mounds 55, 58 
+
+Conner, Rebecca, mounds on farm of 74 
+
+Copper in use among Indians 93, 94, 100-106 
+
+Courtois group of mounds 15 
+
+Cowe, description of Cherokee councilhouse at 87 
+
+Crawford County, Wisconsin, mounds 14, 17, 18, 20 
+
+
+Davenport, Iowa, mounds near 24 
+
+Davenport Academy of Natural Sciences, explorations by members of 24 
+  pipes found by members of 38 
+
+Davis, E. H., and Squier on mounds 12, 13, 38, 45, 48 
+
+De Bry on Indian burial customs 29, 39 
+
+Delaware Indian graves in Ashland County, Ohio 47 
+
+Des Moines River mounds 33, 34 
+
+Drake, Samuel G., advocates Indian origin of mounds 84 
+
+Dubuque County, Iowa, mounds 31, 32 
+
+Dunning, E. O., on stone grave mound in valley of the Little Tennessee 78, 79 
+
+
+Eagle Point, Iowa, mounds 32 
+
+East Dubuque, Illinois, mounds 34-38 
+
+Eldon, Iowa, mounds 33, 34 
+
+Elk River Valley, West Virginia, mounds 55 
+
+Emmert, John W., explorations of 74-77 
+
+Etowah, Georgia, mounds 96-104, 106, 107 
+
+
+Florida mounds 12 
+
+Force, M. F., on distribution of Indians 59 
+
+Fort Defiance, North Carolina, mounds near 68 
+
+
+Garcilasso de la Vega on Indian mounds 95, 96 
+
+George Connet mound, Athens County, Ohio, description of 47, 48 
+
+Grant County, Wisconsin, mounds 19 
+
+Grave Creek, West Virginia, mounds 51 
+
+Gulf mounds 12 
+
+
+Hardy and Scheetz on Missouri mounds 42 
+
+Harris, Thaddeus M., on mound builders 82 
+
+Haven, S. F., quoted 82 
+
+Haywood, John, on location of Cherokee 89, 90 
+  on European implements among Cherokee 94 
+
+Heart, Captain, on mound builders 82 
+
+Henderson, J. G., opening of Illinois mounds by 39 
+
+Henderson County, North Carolina, mounds 74 
+
+Holston Valley, Tennessee, mounds 75-77 
+
+Hoy, Philip, opening of mounds by 14, 20 
+
+Hunt, Charles, mounds on farm of 71 
+
+Hurons, burial ceremonies of 110-119 
+
+
+Illinois mounds 10, 11 
+
+Illinois or Upper Mississippi burial mound district 24-44 
+
+Indiana mounds 10 
+
+Iowa mounds 10, 24 
+
+Iowaville, Iowa, mounds 33, 34 
+
+Iroquois burial customs 21 
+
+
+Jones, C. C., on Indian pipes 93 
+
+Jones, Joseph, on mound builders 83 
+
+Jones, W. D., mound on land of 66-68 
+
+
+Kanawha Valley, explorations in 51, 53, 57 
+
+Kent, M. B., on Indian burial customs 20 
+
+Kentucky mounds 10, 11 
+
+Kickapoo stone graves 30 
+
+
+Lafitau on Indian burial customs 29 
+
+Lane, H. P., mounds on farm of 26 
+
+Lapham, I. A., on Wisconsin mounds 14, 17, 21, 22 
+
+Lawson on shell ornaments 92 
+
+Lederer, John, on copper among Cherokee 91 
+
+Lee County, Virginia, mounds 87 
+
+Le Moyne de Morgues on burial mounds 39 
+
+Lenoir, R. T., burial pit on farm of 68-71 
+
+Little Tennessee Valley mounds 78, 79 
+
+Louisiana mounds 11 
+
+Lower Mississippi mounds 11 
+
+Lubbock, John, advocates Indian origin of mounds 84 
+
+
+McCulloch, J. H., advocates Indian origin of mounds 84 
+
+MacLean, J. P., on Ohio mounds 13 
+  on mound builders 83 
+
+Madison, Bishop, on mound builders 82, 83 
+
+Madison, Wisconsin, mounds near 16 
+
+Madisonville, Ohio, mounds near 49 
+
+Metz, C. L., on burial mounds 49 
+
+Middle Mississippi mounds 11 
+
+Middleton, James D., explorations by 14 
+
+Middleton, Jeff, mound opened by 20 
+
+Mississippi mounds, Upper 10, 24-44 
+  Middle and Lower 11 
+
+Missouri, mounds in 10, 11, 41-44 
+
+Mohawk burial customs 21 
+
+Mound builders, conclusions as to who were the 9, 58, 79, 80, 86, 97 
+  probably Cherokee 87-107 
+
+Mounds, burial 3-119 
+
+
+Naples, Illinois, mounds 39 
+
+Nelson, T. F., monnds on farm of 61-66, 90 
+
+New Albin, Iowa, mounds near 26 
+
+Newark, Ohio, mounds 46 
+
+New York mounds 10 
+
+Norris, P. W., investigations of 17, 18, 26, 27, 32, 35, 39, 40, 52, 55 
+
+North Carolina, mounds in 10, 61-75 
+
+
+Ohio mound district 45-60 
+
+Ohio mounds 10, 12, 13, 45-60 
+
+
+Peru, Iowa, monnds near 31 
+
+Pike County, Illinois, mounds 39 
+
+Pike County, Missouri, mounds 43 
+
+Pipes, soapstone 93, 94 
+
+Potherie on Iroquois burial customs 21 
+
+Pottawattamie mounds 34 
+
+Powell, J. W., copper plate from Illinois mound obtained by 105 
+
+Powhatan, Virginia, site bought with copper 94 
+
+Putnam, F. W., on Ohio mounds 49-51 
+
+
+Quatrefages on appearance of Indians in the valley of the Missouri 109 
+
+
+Racine, Wisconsin, mounds near 14 
+
+Ralls County, Missouri, mounds 42 
+
+Read, M. O., on mounds near Chattanooga 77, 78 
+
+Ripon, Wisconsin, mounds near 16 
+
+Rogan, J. P., explorations of 61, 71, 72, 97, 98, 104 
+
+
+Sac and Fox, burial customs of 20, 21 
+
+Scheetz and Hardy on Slissouri mounds 42 
+
+Schoolcraft, H. R., on Indian burial customs 21 
+  advocates Indian origin of mounds 84 
+
+School-house mound 48, 49 
+
+Shawnee, stone graves of 30 
+
+Sheboygan County, Wisconsin, mounds 19 
+
+Short, John T., on mound builders 83 
+
+Smith, B. H., mounds on farm of 51 
+
+Spainhour, J. M., opening of North Carolina mounds by 61, 73 
+
+Spencer, J. W., on Indian burial customs 21 
+
+Squier and Davis on mounds 12, 38, 45, 48 
+
+Squier, E. G., on Indian antiquities 10 
+
+Sullivan County, Tennessee, mounds 75-77 
+
+
+Tallegwi and Cherokee, relation of 60 
+
+Tallegwi as mound builders 84 
+
+Tennessee mounds 10, 11 
+
+Tennessee River, mounds near 77 
+
+Thomas, Cyrus, paper by, on burial mounds of the northern section of the United States 3-119 
+
+Thomas, Nora, translation of description of burial ceremonies of the Hurons by 110-119 
+
+Tuscarora, neighbors of the Cherokee 91 
+
+
+Upper Mississippi mounds 10, 24-44 
+
+
+Vernon County, Wisconsin, mounds 14, 20 
+
+Virginia mounds 10, 87 
+
+
+Wapello County, Iowa, mounds 33 
+
+Waukesha, Wisconsin, mounds near 17 
+
+Welch, Edward, mounds on farm of 41 
+
+West Virginia, mounds in 10, 51-60 
+
+Wilkes County, North Carolina, mounds 71, 72 
+
+Wisconsin, mounds in 10, 14-23
+*/
