@@ -61,18 +61,18 @@ ILLUSTRATIONS.
 
         II. Enlarged figure and section of earthwork A, Pl. I.       30
 
-       III. Group of mounds and vertical section of bluff, 
+       III. Group of mounds and vertical section of bluff,
             East Dubuque, Illinois.                                  36
 
         IV. A mound. (From DeBry).                                   40
 
-         V. Plat of ancient works, Kanawha County, 
+         V. Plat of ancient works, Kanawha County,
             West Virginia.                                           54
 
         VI. Enlarged plan of part of the works shown in Plate V.     58
 
 
-  <sc>Fig.</sc>  1. Section of mound near Racine, Wisconsin. 
+  <sc>Fig.</sc>  1. Section of mound near Racine, Wisconsin.
            (After Lapham).                                           14
 
         2. Section of burial mound. Vernon County, Wisconsin.        15
@@ -100,10 +100,10 @@ ILLUSTRATIONS.
        13. Pipe from Illinois mound. (From Smithsonian Report,
            1884).                                                    38
 
-       14. Pipe from Illinois mound. (From Smithsonian Report, 
+       14. Pipe from Illinois mound. (From Smithsonian Report,
            1884).                                                    38
 
-       15. Pipe from Illinois mound. (From Smithsonian Report, 
+       15. Pipe from Illinois mound. (From Smithsonian Report,
            1884).                                                    38
 
        16. Group of mounds. Brown County, Illinois.                  40
@@ -116,27 +116,27 @@ ILLUSTRATIONS.
 
        20. Wooden vault of Ohio mound. (After Squier and Davis).     46
 
-       21. Copper gorget from mound. Kanawha County, 
+       21. Copper gorget from mound. Kanawha County,
            West Virginia.                                            52
 
        22. Pipe from mound. Kanawha County, West Virginia.           53
 
        23. Pipe from Ohio mound.                                     53
 
-       24. Mound with so-called "altar." Kanawha County, 
+       24. Mound with so-called "altar." Kanawha County,
            West Virginia.                                            57
 
        25. T. F. Nelson mound. Caldwell County. North Carolina.      62
 
-       26. T. F. Nelson triangle. Caldwell County, 
+       26. T. F. Nelson triangle. Caldwell County,
            North Carolina.                                           63
 
        27. Engraved shell gorget. Caldwell County, North Carolina.   64
 
-       28. Cylindrical copper bead. Caldwell County, 
+       28. Cylindrical copper bead. Caldwell County,
            North Carolina.                                           65
 
-       29. Bracelet of copper and shell beads. Caldwell County, 
+       29. Bracelet of copper and shell beads. Caldwell County,
            North Carolina.                                           65
 
        30. Iron implement. Caldwell County, North Carolina.          65
@@ -145,7 +145,7 @@ ILLUSTRATIONS.
 
        32. W. D. Jones mound. Caldwell County, North Carolina.       67
 
-       33. Plan of the R. T. Lenoir burial pit, Caldwell County, 
+       33. Plan of the R. T. Lenoir burial pit, Caldwell County,
            North Carolina.                                           69
 
        34. Fire-bed. Wilkes County, North Carolina.                  72
@@ -334,7 +334,7 @@ that part of the Cumberland valley in middle Tennessee. This subsection
 is principally distinguished by the presence of the small circular
 house-sites, which are slightly basin-shaped, with a low ring of earth
 -----File: 066.png---\gmiller\Njalsson\\dmack\JHowse\----------------------
-around them. As we move farther southward into Arkansas the house-*sites
+around them. As we move farther southward into Arkansas the house-sites
 change into low circular mounds, usually from 1 to 3 feet in height,
 and in nearly every instance containing a layer of clay (often burned)
 and ashes.
@@ -468,7 +468,7 @@ the mound was built.[1]
 [Illustration: <sc>Fig. 1.</sc>--Section of mound near Racine, Wisconsin.]
 
 In these a basin-shaped excavation some 2 or 3 feet deep was first
-made in the soil in which the bodies were deposited, as shown in Fig. 1. 
+made in the soil in which the bodies were deposited, as shown in Fig. 1.
 
 [Footnote 1: Antiquities of Wisconsin, p. 9.]
 
@@ -1050,7 +1050,7 @@ part, are to be attributed to the people who built the figure mounds
 of Wisconsin. But, as will be seen from the particulars mentioned,
 there is conclusive evidence that the locality has been occupied at different
 times by at least two distinct tribes or peoples, differing widely
-in habits and customs. 
+in habits and customs.
 
 [Footnote 1: I wish it distinctly understood, that I do not by the use of this term, commit myself
 to the theory that these mounds or any others contain altars in the true sense
@@ -1080,7 +1080,7 @@ and from 25 to 27 in width, except along the bluff, where it is scarcely
 apparent; the entrance is 16 feet wide, and the ditch 5 to 6 feet wide
 and 3 feet deep. On the north, adjoining the wall on the outside and
 extending along it for about 100 feet, is an excavation (<i>c</i>, Plate II) 35 feet
-wide at the widest point and 3 feet deep. 
+wide at the widest point and 3 feet deep.
 
 [Illustration: PL. I. GROUP OF EARTHWORKS, ALLAMAKEE COUNTY, IOWA]
 
@@ -1669,7 +1669,7 @@ when, in all likelihood, certain ceremonies were to be observed and a
 pause in the work occurred. Whether this suggestion be correct or not,
 the cut and the statement of Judge Henderson furnish some evidence
 in regard to the presence of these articles in the mounds, and point to
-the people by whom they were placed there. 
+the people by whom they were placed there.
 
 [Footnote 1: Brevis Narratio, Tab. XI.]
 
@@ -2135,7 +2135,7 @@ Museum. Only partial notices of these explorations, which are not yet
 completed, have been published, but we deem these of sufficient importance
 in this connection to quote freely from them,[1] so far as they serve
 to illustrate the modes of burial and construction of burial mounds of
-this region. 
+this region.
 
 [Footnote 1: See 17th Report Peabody Museum, pp. 339-347.]
 
@@ -2618,7 +2618,7 @@ of Ohio.  That they were related in some way to the mound-builders of
 North Carolina and East Tennessee is more than probable, but the key
 to unlock this mystery, if it exists anywhere, is most likely to be found
 in the history, traditions, and works of the Cherokees, and the traditions
-relating to the Tallegwi. 
+relating to the Tallegwi.
 
 [Illustration: PL. VI. ENLARGED PLAN OF PART OF THE WORKS SHOWN IN PL. V.]
 
@@ -3718,7 +3718,7 @@ ancient works.
 
 It was not until about the close of the eighteenth century that the
 scientific men of the Eastern States became fully impressed with the
-fact that remarkable antiquities were to be found in our country. 
+fact that remarkable antiquities were to be found in our country.
 
 [Footnote 1: Sixteenth and Seventeenth Report Peabody Museum, p. 346.]
 
@@ -4254,7 +4254,7 @@ inspection of the specimens will satisfy any one that it is), it certainly
 indicates contact with civilized people. If so, then we have positive
 proof that this mound was made subsequent to the discovery of America
 by Columbus and in all probability after the date of De Soto's expedition
-in 1540. 
+in 1540.
 
 [Footnote 1: Discoveries, London edition, p. 20.]
 
@@ -5599,369 +5599,369 @@ INDEX
 
 /*
 Alexander, J. B., mounds on farm of 74
- 
-Allamakee County, Iowa, mounds 26 
 
-Altar mounds 57, 58 
+Allamakee County, Iowa, mounds 26
 
-Anderson, W. G., opened Wisconsin mounds 16 
+Altar mounds 57, 58
 
-Anderson Township, Ohio, mounds 49 
+Anderson, W. G., opened Wisconsin mounds 16
 
-Andrews, E. B., on Ohio mounds 47, 48 
+Anderson Township, Ohio, mounds 49
 
-Appalachian mound district and mounds 10, 61-86 
+Andrews, E. B., on Ohio mounds 47, 48
 
-Arkansas mounds 11 
+Appalachian mound district and mounds 10, 61-86
 
-Armstrong, Thomas, on Wisconsin mounds 16 
+Arkansas mounds 11
 
-Ashland County, Ohio, mounds 47 
+Armstrong, Thomas, on Wisconsin mounds 16
 
-Athens County, Ohio, mounds 47 
+Ashland County, Ohio, mounds 47
+
+Athens County, Ohio, mounds 47
 
 
-Baldwin, J. D., on mound builders 83 
+Baldwin, J. D., on mound builders 83
 
-Bartow County, Georgia, mounds 96-104 
+Bartow County, Georgia, mounds 96-104
 
-Bartram, William, description of Cherokee council house 87 
+Bartram, William, description of Cherokee council house 87
 
-Beverly on shell ornaments 92 
+Beverly on shell ornaments 92
 
-Black Hawk's grave 33, 34 
+Black Hawk's grave 33, 34
 
-Boulware, J. N., mounds on farm of 44 
+Boulware, J. N., mounds on farm of 44
 
-Branson, Judge, opening of Wisconsin mounds by 18 
+Branson, Judge, opening of Wisconsin mounds by 18
 
-Brebeuf, Jean, on burial ceremonies of the Hurons 71, 110-119 
+Brebeuf, Jean, on burial ceremonies of the Hurons 71, 110-119
 
-Brinton, D. G., on a burial mound 39 
-  on Indians as mound builders 84 
+Brinton, D. G., on a burial mound 39
+  on Indians as mound builders 84
 
-Brown County, Illinois, mounds 39-41 
+Brown County, Illinois, mounds 39-41
 
-Buffalo Creek, Worth Carolina, mounds near 68 
+Buffalo Creek, Worth Carolina, mounds near 68
 
 Burial mounds of the northern sections of the United States, by Cyrus Thomas 3-119
 
-Burke County, North Carolina, mounds 73 
+Burke County, North Carolina, mounds 73
 
-Butler County, Ohio, archæology of 13 
+Butler County, Ohio, archæology of 13
 
 
-Caldwell County, North Carolina, mounds 61-71 
+Caldwell County, North Carolina, mounds 61-71
 
-Carr, Lucien, cited 84, 87, 88, 92 
+Carr, Lucien, cited 84, 87, 88, 92
 
-Cartersville, Georgia, mounds near 96-104 
+Cartersville, Georgia, mounds near 96-104
 
-Case, H. B., on Indian burial customs 47 
+Case, H. B., on Indian burial customs 47
 
-Charleston, West Virginia, mounds near 51, 53, 55 
+Charleston, West Virginia, mounds near 51, 53, 55
 
-Chattanooga, Tennessee, mounds near 77 
+Chattanooga, Tennessee, mounds near 77
 
 Chelaque identical with Cherokee 89
 
-Cherokee, the, probably mound builders 60, 87-107 
+Cherokee, the, probably mound builders 60, 87-107
 
-Cherokee and Tallegwi, relation of 60 
+Cherokee and Tallegwi, relation of 60
 
-Chillicothe, Ohio, mounds 46 
+Chillicothe, Ohio, mounds 46
 
-Clarke, F. W., analyzed iron from mounds 91 
+Clarke, F. W., analyzed iron from mounds 91
 
-Clarke County, Missouri, mounds 43 
+Clarke County, Missouri, mounds 43
 
-Clifton, West Virginia, mounds 55, 58 
+Clifton, West Virginia, mounds 55, 58
 
-Conner, Rebecca, mounds on farm of 74 
+Conner, Rebecca, mounds on farm of 74
 
-Copper in use among Indians 93, 94, 100-106 
+Copper in use among Indians 93, 94, 100-106
 
-Courtois group of mounds 15 
+Courtois group of mounds 15
 
-Cowe, description of Cherokee councilhouse at 87 
+Cowe, description of Cherokee councilhouse at 87
 
-Crawford County, Wisconsin, mounds 14, 17, 18, 20 
+Crawford County, Wisconsin, mounds 14, 17, 18, 20
 
 
-Davenport, Iowa, mounds near 24 
+Davenport, Iowa, mounds near 24
 
-Davenport Academy of Natural Sciences, explorations by members of 24 
-  pipes found by members of 38 
+Davenport Academy of Natural Sciences, explorations by members of 24
+  pipes found by members of 38
 
-Davis, E. H., and Squier on mounds 12, 13, 38, 45, 48 
+Davis, E. H., and Squier on mounds 12, 13, 38, 45, 48
 
-De Bry on Indian burial customs 29, 39 
+De Bry on Indian burial customs 29, 39
 
-Delaware Indian graves in Ashland County, Ohio 47 
+Delaware Indian graves in Ashland County, Ohio 47
 
-Des Moines River mounds 33, 34 
+Des Moines River mounds 33, 34
 
-Drake, Samuel G., advocates Indian origin of mounds 84 
+Drake, Samuel G., advocates Indian origin of mounds 84
 
-Dubuque County, Iowa, mounds 31, 32 
+Dubuque County, Iowa, mounds 31, 32
 
-Dunning, E. O., on stone grave mound in valley of the Little Tennessee 78, 79 
+Dunning, E. O., on stone grave mound in valley of the Little Tennessee 78, 79
 
 
-Eagle Point, Iowa, mounds 32 
+Eagle Point, Iowa, mounds 32
 
-East Dubuque, Illinois, mounds 34-38 
+East Dubuque, Illinois, mounds 34-38
 
-Eldon, Iowa, mounds 33, 34 
+Eldon, Iowa, mounds 33, 34
 
-Elk River Valley, West Virginia, mounds 55 
+Elk River Valley, West Virginia, mounds 55
 
-Emmert, John W., explorations of 74-77 
+Emmert, John W., explorations of 74-77
 
-Etowah, Georgia, mounds 96-104, 106, 107 
+Etowah, Georgia, mounds 96-104, 106, 107
 
 
-Florida mounds 12 
+Florida mounds 12
 
-Force, M. F., on distribution of Indians 59 
+Force, M. F., on distribution of Indians 59
 
-Fort Defiance, North Carolina, mounds near 68 
+Fort Defiance, North Carolina, mounds near 68
 
 
-Garcilasso de la Vega on Indian mounds 95, 96 
+Garcilasso de la Vega on Indian mounds 95, 96
 
-George Connet mound, Athens County, Ohio, description of 47, 48 
+George Connet mound, Athens County, Ohio, description of 47, 48
 
-Grant County, Wisconsin, mounds 19 
+Grant County, Wisconsin, mounds 19
 
-Grave Creek, West Virginia, mounds 51 
+Grave Creek, West Virginia, mounds 51
 
-Gulf mounds 12 
+Gulf mounds 12
 
 
-Hardy and Scheetz on Missouri mounds 42 
+Hardy and Scheetz on Missouri mounds 42
 
-Harris, Thaddeus M., on mound builders 82 
+Harris, Thaddeus M., on mound builders 82
 
-Haven, S. F., quoted 82 
+Haven, S. F., quoted 82
 
-Haywood, John, on location of Cherokee 89, 90 
-  on European implements among Cherokee 94 
+Haywood, John, on location of Cherokee 89, 90
+  on European implements among Cherokee 94
 
-Heart, Captain, on mound builders 82 
+Heart, Captain, on mound builders 82
 
-Henderson, J. G., opening of Illinois mounds by 39 
+Henderson, J. G., opening of Illinois mounds by 39
 
-Henderson County, North Carolina, mounds 74 
+Henderson County, North Carolina, mounds 74
 
-Holston Valley, Tennessee, mounds 75-77 
+Holston Valley, Tennessee, mounds 75-77
 
-Hoy, Philip, opening of mounds by 14, 20 
+Hoy, Philip, opening of mounds by 14, 20
 
-Hunt, Charles, mounds on farm of 71 
+Hunt, Charles, mounds on farm of 71
 
-Hurons, burial ceremonies of 110-119 
+Hurons, burial ceremonies of 110-119
 
 
-Illinois mounds 10, 11 
+Illinois mounds 10, 11
 
-Illinois or Upper Mississippi burial mound district 24-44 
+Illinois or Upper Mississippi burial mound district 24-44
 
-Indiana mounds 10 
+Indiana mounds 10
 
-Iowa mounds 10, 24 
+Iowa mounds 10, 24
 
-Iowaville, Iowa, mounds 33, 34 
+Iowaville, Iowa, mounds 33, 34
 
-Iroquois burial customs 21 
+Iroquois burial customs 21
 
 
-Jones, C. C., on Indian pipes 93 
+Jones, C. C., on Indian pipes 93
 
-Jones, Joseph, on mound builders 83 
+Jones, Joseph, on mound builders 83
 
-Jones, W. D., mound on land of 66-68 
+Jones, W. D., mound on land of 66-68
 
 
-Kanawha Valley, explorations in 51, 53, 57 
+Kanawha Valley, explorations in 51, 53, 57
 
-Kent, M. B., on Indian burial customs 20 
+Kent, M. B., on Indian burial customs 20
 
-Kentucky mounds 10, 11 
+Kentucky mounds 10, 11
 
-Kickapoo stone graves 30 
+Kickapoo stone graves 30
 
 
-Lafitau on Indian burial customs 29 
+Lafitau on Indian burial customs 29
 
-Lane, H. P., mounds on farm of 26 
+Lane, H. P., mounds on farm of 26
 
-Lapham, I. A., on Wisconsin mounds 14, 17, 21, 22 
+Lapham, I. A., on Wisconsin mounds 14, 17, 21, 22
 
-Lawson on shell ornaments 92 
+Lawson on shell ornaments 92
 
-Lederer, John, on copper among Cherokee 91 
+Lederer, John, on copper among Cherokee 91
 
-Lee County, Virginia, mounds 87 
+Lee County, Virginia, mounds 87
 
-Le Moyne de Morgues on burial mounds 39 
+Le Moyne de Morgues on burial mounds 39
 
-Lenoir, R. T., burial pit on farm of 68-71 
+Lenoir, R. T., burial pit on farm of 68-71
 
-Little Tennessee Valley mounds 78, 79 
+Little Tennessee Valley mounds 78, 79
 
-Louisiana mounds 11 
+Louisiana mounds 11
 
-Lower Mississippi mounds 11 
+Lower Mississippi mounds 11
 
-Lubbock, John, advocates Indian origin of mounds 84 
+Lubbock, John, advocates Indian origin of mounds 84
 
 
-McCulloch, J. H., advocates Indian origin of mounds 84 
+McCulloch, J. H., advocates Indian origin of mounds 84
 
-MacLean, J. P., on Ohio mounds 13 
-  on mound builders 83 
+MacLean, J. P., on Ohio mounds 13
+  on mound builders 83
 
-Madison, Bishop, on mound builders 82, 83 
+Madison, Bishop, on mound builders 82, 83
 
-Madison, Wisconsin, mounds near 16 
+Madison, Wisconsin, mounds near 16
 
-Madisonville, Ohio, mounds near 49 
+Madisonville, Ohio, mounds near 49
 
-Metz, C. L., on burial mounds 49 
+Metz, C. L., on burial mounds 49
 
-Middle Mississippi mounds 11 
+Middle Mississippi mounds 11
 
-Middleton, James D., explorations by 14 
+Middleton, James D., explorations by 14
 
-Middleton, Jeff, mound opened by 20 
+Middleton, Jeff, mound opened by 20
 
-Mississippi mounds, Upper 10, 24-44 
-  Middle and Lower 11 
+Mississippi mounds, Upper 10, 24-44
+  Middle and Lower 11
 
-Missouri, mounds in 10, 11, 41-44 
+Missouri, mounds in 10, 11, 41-44
 
-Mohawk burial customs 21 
+Mohawk burial customs 21
 
-Mound builders, conclusions as to who were the 9, 58, 79, 80, 86, 97 
-  probably Cherokee 87-107 
+Mound builders, conclusions as to who were the 9, 58, 79, 80, 86, 97
+  probably Cherokee 87-107
 
-Mounds, burial 3-119 
+Mounds, burial 3-119
 
 
-Naples, Illinois, mounds 39 
+Naples, Illinois, mounds 39
 
-Nelson, T. F., monnds on farm of 61-66, 90 
+Nelson, T. F., monnds on farm of 61-66, 90
 
-New Albin, Iowa, mounds near 26 
+New Albin, Iowa, mounds near 26
 
-Newark, Ohio, mounds 46 
+Newark, Ohio, mounds 46
 
-New York mounds 10 
+New York mounds 10
 
-Norris, P. W., investigations of 17, 18, 26, 27, 32, 35, 39, 40, 52, 55 
+Norris, P. W., investigations of 17, 18, 26, 27, 32, 35, 39, 40, 52, 55
 
-North Carolina, mounds in 10, 61-75 
+North Carolina, mounds in 10, 61-75
 
 
-Ohio mound district 45-60 
+Ohio mound district 45-60
 
-Ohio mounds 10, 12, 13, 45-60 
+Ohio mounds 10, 12, 13, 45-60
 
 
-Peru, Iowa, monnds near 31 
+Peru, Iowa, monnds near 31
 
-Pike County, Illinois, mounds 39 
+Pike County, Illinois, mounds 39
 
-Pike County, Missouri, mounds 43 
+Pike County, Missouri, mounds 43
 
-Pipes, soapstone 93, 94 
+Pipes, soapstone 93, 94
 
-Potherie on Iroquois burial customs 21 
+Potherie on Iroquois burial customs 21
 
-Pottawattamie mounds 34 
+Pottawattamie mounds 34
 
-Powell, J. W., copper plate from Illinois mound obtained by 105 
+Powell, J. W., copper plate from Illinois mound obtained by 105
 
-Powhatan, Virginia, site bought with copper 94 
+Powhatan, Virginia, site bought with copper 94
 
-Putnam, F. W., on Ohio mounds 49-51 
+Putnam, F. W., on Ohio mounds 49-51
 
 
-Quatrefages on appearance of Indians in the valley of the Missouri 109 
+Quatrefages on appearance of Indians in the valley of the Missouri 109
 
 
-Racine, Wisconsin, mounds near 14 
+Racine, Wisconsin, mounds near 14
 
-Ralls County, Missouri, mounds 42 
+Ralls County, Missouri, mounds 42
 
-Read, M. O., on mounds near Chattanooga 77, 78 
+Read, M. O., on mounds near Chattanooga 77, 78
 
-Ripon, Wisconsin, mounds near 16 
+Ripon, Wisconsin, mounds near 16
 
-Rogan, J. P., explorations of 61, 71, 72, 97, 98, 104 
+Rogan, J. P., explorations of 61, 71, 72, 97, 98, 104
 
 
-Sac and Fox, burial customs of 20, 21 
+Sac and Fox, burial customs of 20, 21
 
-Scheetz and Hardy on Slissouri mounds 42 
+Scheetz and Hardy on Slissouri mounds 42
 
-Schoolcraft, H. R., on Indian burial customs 21 
-  advocates Indian origin of mounds 84 
+Schoolcraft, H. R., on Indian burial customs 21
+  advocates Indian origin of mounds 84
 
-School-house mound 48, 49 
+School-house mound 48, 49
 
-Shawnee, stone graves of 30 
+Shawnee, stone graves of 30
 
-Sheboygan County, Wisconsin, mounds 19 
+Sheboygan County, Wisconsin, mounds 19
 
-Short, John T., on mound builders 83 
+Short, John T., on mound builders 83
 
-Smith, B. H., mounds on farm of 51 
+Smith, B. H., mounds on farm of 51
 
-Spainhour, J. M., opening of North Carolina mounds by 61, 73 
+Spainhour, J. M., opening of North Carolina mounds by 61, 73
 
-Spencer, J. W., on Indian burial customs 21 
+Spencer, J. W., on Indian burial customs 21
 
-Squier and Davis on mounds 12, 38, 45, 48 
+Squier and Davis on mounds 12, 38, 45, 48
 
-Squier, E. G., on Indian antiquities 10 
+Squier, E. G., on Indian antiquities 10
 
-Sullivan County, Tennessee, mounds 75-77 
+Sullivan County, Tennessee, mounds 75-77
 
 
-Tallegwi and Cherokee, relation of 60 
+Tallegwi and Cherokee, relation of 60
 
-Tallegwi as mound builders 84 
+Tallegwi as mound builders 84
 
-Tennessee mounds 10, 11 
+Tennessee mounds 10, 11
 
-Tennessee River, mounds near 77 
+Tennessee River, mounds near 77
 
-Thomas, Cyrus, paper by, on burial mounds of the northern section of the United States 3-119 
+Thomas, Cyrus, paper by, on burial mounds of the northern section of the United States 3-119
 
-Thomas, Nora, translation of description of burial ceremonies of the Hurons by 110-119 
+Thomas, Nora, translation of description of burial ceremonies of the Hurons by 110-119
 
-Tuscarora, neighbors of the Cherokee 91 
+Tuscarora, neighbors of the Cherokee 91
 
 
-Upper Mississippi mounds 10, 24-44 
+Upper Mississippi mounds 10, 24-44
 
 
-Vernon County, Wisconsin, mounds 14, 20 
+Vernon County, Wisconsin, mounds 14, 20
 
-Virginia mounds 10, 87 
+Virginia mounds 10, 87
 
 
-Wapello County, Iowa, mounds 33 
+Wapello County, Iowa, mounds 33
 
-Waukesha, Wisconsin, mounds near 17 
+Waukesha, Wisconsin, mounds near 17
 
-Welch, Edward, mounds on farm of 41 
+Welch, Edward, mounds on farm of 41
 
-West Virginia, mounds in 10, 51-60 
+West Virginia, mounds in 10, 51-60
 
-Wilkes County, North Carolina, mounds 71, 72 
+Wilkes County, North Carolina, mounds 71, 72
 
 Wisconsin, mounds in 10, 14-23
 */
