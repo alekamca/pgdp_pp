@@ -7,11 +7,13 @@
 /*
 SMITHSONIAN INSTITUTION--BUREAU OF ETHNOLOGY.
 
-BURIAL MOUNDS
-OF THE
-NORTHERN SECTIONS OF THE UNITED STATES.
-BY
-PROF. CYRUS THOMAS.
+              BURIAL MOUNDS
+                 OF THE
+ NORTHERN SECTIONS OF THE UNITED STATES.
+
+                   BY
+
+          PROF. CYRUS THOMAS.
 */
 -----File: 058.png---\Nattgew\rnary.stuart\\mvantuyl\JHowse\---------------
 [Blank Page]
@@ -24,23 +26,23 @@ CONTENTS.
 
 
 /*
-                                                                Page.
+                                                                  Page.
 
-Introductory                                                        9
+  Introductory                                                        9
 
-Burial mounds of the Wisconsin district                            14
+  Burial mounds of the Wisconsin district                            14
 
-Burial mounds of the Illinois or Upper Mississippi district        24
+  Burial mounds of the Illinois or Upper Mississippi district        24
 
-The Ohio district                                                  45
+  The Ohio district                                                  45
 
-The Appalachian district                                           61
+  The Appalachian district                                           61
 
-The Cherokees probably mound-builders                              87
+  The Cherokees probably mound-builders                              87
 
-Concluding remarks                                                108
+  Concluding remarks                                                108
 
-Supplemental note                                                 110
+  Supplemental note                                                 110
 */
 -----File: 060.png---\Nattgew\carlyon-treloar\\mvantuyl\JHowse\------------
 [Blank Page]
@@ -53,121 +55,132 @@ ILLUSTRATIONS.
 
 
 /*
-                                                                                  Page.
+                                                                  Page.
 
-<sc>Plate</sc>  I. Group of earthworks, Allamakee County, Iowa.                                26
+  <sc>Plate</sc>  I. Group of earthworks, Allamakee County, Iowa.             26
 
-      II. Enlarged figure and section of earthwork A, Pl. I.                          30
+        II. Enlarged figure and section of earthwork A, Pl. I.       30
 
-     III. Group of mounds and vertical section of bluff, East Dubuque,
-         Illinois.                                                                   36
+       III. Group of mounds and vertical section of bluff, 
+            East Dubuque, Illinois.                                  36
 
-      IV. A mound. (From DeBry).                                                      40
+        IV. A mound. (From DeBry).                                   40
 
-       V. Plat of ancient works, Kanawha County, West Virginia.                       54
+         V. Plat of ancient works, Kanawha County, 
+            West Virginia.                                           54
 
-      VI. Enlarged plan of part of the works shown in Plate V.                        58
+        VI. Enlarged plan of part of the works shown in Plate V.     58
 
 
-<sc>Fig.</sc>  1. Section of mound near Racine, Wisconsin. (After Lapham).                     14
+  <sc>Fig.</sc>  1. Section of mound near Racine, Wisconsin. 
+           (After Lapham).                                           14
 
-      2. Section of burial mound. Vernon County, Wisconsin.                           15
+        2. Section of burial mound. Vernon County, Wisconsin.        15
 
-      3. Earthen pot from Wisconsin burial mound.                                     16
+        3. Earthen pot from Wisconsin burial mound.                  16
 
-      4. Section of burial mound. Crawford County, Wisconsin.                         17
+        4. Section of burial mound. Crawford County, Wisconsin.      17
 
-      5. Section of burial mound. Crawford County, Wisconsin.                         18
+        5. Section of burial mound. Crawford County, Wisconsin.      18
 
-      6. Section of burial mound. Vernon County, Wisconsin.                           20
+        6. Section of burial mound. Vernon County, Wisconsin.        20
 
-      7. Section of burial mound. Davenport, Iowa.                                    24
+        7. Section of burial mound. Davenport, Iowa.                 24
 
-      8. Section of mound showing stone vault. Iowa.                                  31
+        8. Section of mound showing stone vault. Iowa.               31
 
-      9. Plat of Indian burying ground. Wapello County, Iowa.                         33
+        9. Plat of Indian burying ground. Wapello County, Iowa.      33
 
-     10. Section of mound 4. East Dubuque, Illinois.                                  36
+       10. Section of mound 4. East Dubuque, Illinois.               36
 
-     11. Section of mound 16 (Plate III), showing vault.                              37
+       11. Section of mound 16 (Plate III), showing vault.           37
 
-     12. Plan of vault, mound 16 (Plate III).                                         37
+       12. Plan of vault, mound 16 (Plate III).                      37
 
-     13. Pipe from Illinois mound. (From Smithsonian Report, 1884).                   38
+       13. Pipe from Illinois mound. (From Smithsonian Report,
+           1884).                                                    38
 
-     14. Pipe from Illinois mound. (From Smithsonian Report, 1884).                   38
+       14. Pipe from Illinois mound. (From Smithsonian Report, 
+           1884).                                                    38
 
-     15. Pipe from Illinois mound. (From Smithsonian Report, 1884).                   38
+       15. Pipe from Illinois mound. (From Smithsonian Report, 
+           1884).                                                    38
 
-     16. Group of mounds. Brown County, Illinois.                                     40
+       16. Group of mounds. Brown County, Illinois.                  40
 
-     17. Form of the larger mounds of the preceding group.                            41
+       17. Form of the larger mounds of the preceding group.         41
 
-     18. Groups of mounds. Clarke County, Missouri.                                   43
+       18. Groups of mounds. Clarke County, Missouri.                43
 
-     19. Ohio burial mound. (After Squier and Davis).                                 46
+       19. Ohio burial mound. (After Squier and Davis).              46
 
-     20. Wooden vault of Ohio mound. (After Squier and Davis).                        46
+       20. Wooden vault of Ohio mound. (After Squier and Davis).     46
 
-     21. Copper gorget from mound. Kanawha County, West Virginia.                     52
+       21. Copper gorget from mound. Kanawha County, 
+           West Virginia.                                            52
 
-     22. Pipe from mound. Kanawha County, West Virginia.                              53
+       22. Pipe from mound. Kanawha County, West Virginia.           53
 
-     23. Pipe from Ohio mound.                                                        53
+       23. Pipe from Ohio mound.                                     53
 
-     24. Mound with so-called "altar." Kanawha County, West Virginia.                 57
+       24. Mound with so-called "altar." Kanawha County, 
+           West Virginia.                                            57
 
-     25. T. F. Nelson mound. Caldwell County. North Carolina.                         62
+       25. T. F. Nelson mound. Caldwell County. North Carolina.      62
 
-     26. T. F. Nelson triangle. Caldwell County, North Carolina.                      63
+       26. T. F. Nelson triangle. Caldwell County, 
+           North Carolina.                                           63
 
-     27. Engraved shell gorget. Caldwell County, North Carolina.                      64
+       27. Engraved shell gorget. Caldwell County, North Carolina.   64
 
-     28. Cylindrical copper bead. Caldwell County, North Carolina.                    65
+       28. Cylindrical copper bead. Caldwell County, 
+           North Carolina.                                           65
 
-     29. Bracelet of copper and shell beads. Caldwell County, North Carolina.         65
+       29. Bracelet of copper and shell beads. Caldwell County, 
+           North Carolina.                                           65
 
-     30. Iron implement. Caldwell County, North Carolina.                             65
+       30. Iron implement. Caldwell County, North Carolina.          65
 
-     31. Iron implement. Caldwell County, North Carolina.                             66
+       31. Iron implement. Caldwell County, North Carolina.          66
 
-     32. W. D. Jones mound. Caldwell County, North Carolina.                          67
+       32. W. D. Jones mound. Caldwell County, North Carolina.       67
 
-     33. Plan of the R. T. Lenoir burial pit, Caldwell County, North Carolina.        69
+       33. Plan of the R. T. Lenoir burial pit, Caldwell County, 
+           North Carolina.                                           69
 
-     34. Fire-bed. Wilkes County, North Carolina.                                     72
+       34. Fire-bed. Wilkes County, North Carolina.                  72
 */
 -----File: 062.png---\dustiepagez\Njalsson\\dmack\JHowse\------------------
 /*
-<sc>Fig.</sc> 35. Section of mound.  Henderson County, North Carolina.                         74
+       35. Section of mound.  Henderson County, North Carolina.      74
 
-     36. Section of mound.  Henderson County, North Carolina.                         75
+       36. Section of mound.  Henderson County, North Carolina.      75
 
-     37. Plan of burials in mound.  Sullivan County, Tennessee.                       76
+       37. Plan of burials in mound.  Sullivan County, Tennessee.    76
 
-     38. Pipe from mound.  Sullivan County, Tennessee.                                76
+       38. Pipe from mound.  Sullivan County, Tennessee.             76
 
-     39. Large mound of Etowah group.  Bartow County, Georgia.                        96
+       39. Large mound of Etowah group.  Bartow County, Georgia.     96
 
-     40. Vertical section of small mound, same group.                                 97
+       40. Vertical section of small mound, same group.              97
 
-     41. Plan of burials in same mound.                                               98
+       41. Plan of burials in same mound.                            98
 
-     42. Copper plate from Etowah mound.  Georgia.                                   100
+       42. Copper plate from Etowah mound.  Georgia.                100
 
-     43. Copper plate from Etowah mound.  Georgia.                                   101
+       43. Copper plate from Etowah mound.  Georgia.                101
 
-     44. Copper badge from Etowah mound.  Georgia.                                   102
+       44. Copper badge from Etowah mound.  Georgia.                102
 
-     45. Copper badge from Etowah mound.  Georgia.                                   103
+       45. Copper badge from Etowah mound.  Georgia.                103
 
-     46. Engraved shell from Etowah mound.  Georgia.                                 103
+       46. Engraved shell from Etowah mound.  Georgia.              103
 
-     47. Engraved shell from Etowah mound.  Georgia.                                 104
+       47. Engraved shell from Etowah mound.  Georgia.              104
 
-     48. Copper plate from Illinois mound.                                           105
+       48. Copper plate from Illinois mound.                        105
 
-     49. Copper plate from Indian grave.  Illinois.                                  106
+       49. Copper plate from Indian grave.  Illinois.               106
 */
 -----File: 063.png---\gmiller\Njalsson\\dmack\JHowse\----------------------
 
