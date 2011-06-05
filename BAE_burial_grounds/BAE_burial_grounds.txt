@@ -4799,12 +4799,12 @@ I shall at present simply call attention to one or two facts which appear
 to bear upon the age and distribution of these singular specimens
 of art.
 
+[Footnote 1: Science, April 11, 1884.]
+
 First. We notice the fact alluded to by Mr. Holmes,[1] which is
 apparent to every one who inspects his accurately drawn figures, that
 in all their leading features the designs themselves are suggestive of
 Mexican or Central American work. Yet a close inspection brings
-
-[Footnote 1: Science, April 11, 1884.]
 -----File: 171.png---\Over_50\richs\\dmack\donovan\------------------------
 to light one or two features which are anomalies in Mexican or Central
 American designs; as, for example, in Figs. 42 and 43, where the wings
@@ -4832,14 +4832,14 @@ that the work was done with hard metallic tools.
 
 [Illustration: <sc>Fig. 48.</sc>--Copper plate from Illinois mound.]
 
+[Footnote 1: Science, April, 1884.]
+
 Second. Plates like those of this collection have only been found, so
 far as I can ascertain, in northern Georgia and northern and southern
 Illinois. The bird figure represented in Fig. 48 was obtained by Major
 Powell, the director of the United States Geological Survey, from a
 mound near Peoria, Illinois. Another was obtained in Jackson County,
 Illinois, by Mr. Thing, from an ordinary stone grave. From another sim-*
-
-[Footnote 1: Science, April, 1884.]
 -----File: 172.png---\Over_50\richs\\dmack\donovan\------------------------
 *ilar grave, at the same place, he also obtained the plate represented in
 Fig. 49. Fragments of a similar plate were obtained by Mr. Earle from
@@ -4893,7 +4893,10 @@ authors of the works in their territory.
 -----File: 174.png---\Over_50\richs\\dmack\donovan\------------------------
 
 
+
+
 CONCLUDING REMARKS.
+
 
 The results of our examination of the burial mounds of the northern
 districts may be briefly summed up as follows:
@@ -4962,10 +4965,14 @@ this region and their ancestors.
 -----File: 176.png---\Over_50\richs\\dmack\donovan\------------------------
 
 
+
+
 SUPPLEMENTAL NOTE.[1]
+
 
 BURIAL CEREMONIES OF THE HURONS.[2]
 
+/#
 Our savages are not savages as regards the duties which nature herself requires us
 to render to the dead. They do not yield in this respect to several nations much more
 civilized. You would say that all their labor and efforts were for scarcely anything
@@ -5007,12 +5014,14 @@ a very long time," &c. It is true that on this occasion they do not lack for con
 I am sometimes surprised to see them discourse a long time on this subject,
 and bring up, with much discretion, all considerations that may afford any consolation
 to the friends of the deceased.
+#/
 
 [Footnote 1: Referred to on p. 71.]
 
 [Footnote 2: Translated from Relations des Jésuites, 1636, pp. 128-139, by Miss Nora Thomas.]
 -----File: 177.png---\Over_50\kaet\\dmack\donovan\-------------------------
 
+/#
 Notice is also given of this death to the friends who live in other villages, and as
 each family employs another who has the care of their dead, they come as soon as
 possible to give orders about everything and to fix the day of the funeral. They
@@ -5074,7 +5083,9 @@ from the lips of the father of the child himself.
 
 When the funeral is over the mourning does not cease: the wife continues it all the
 year for her husband, the husband for the wife; but the grand mourning itself
+#/
 -----File: 178.png---\Over_50\stygiania\\dmack\donovan\--------------------
+/#
 lasts only ten days. During this time they remain lying on their mats wrapped in
 their robes, with their faces against the earth, without speaking or replying to anything,
 save <i>C[)o]ay</i>[** c[ou]ay ??], to those who come to visit them. They do not warm themselves in
@@ -5104,10 +5115,12 @@ him, after giving a grand feast to all the people of the country, to introduce h
 under this name, raises a body of free young men and goes to war to accomplish
 some brave feat which will show to the nation that he has not only inherited the name
 but also the bravery and courage of the deceased.
+#/
 
 
 THE SOLEMN FEAST OF THE DEAD.
 
+/#
 The feast of the dead is the most celebrated ceremony that takes place among the
 Hurons. They give it the name of festival for the reason, as I should say now, that
 when the bodies are taken from the cemeteries each captain makes a "feast to the
@@ -5138,7 +5151,9 @@ cause no hindrance to the spreading of the sacred Gospel. But I must touch brief
 upon the order and the events of the feast.
 
 The twelve years or more having expired, the old people and great men of the na-*
+#/
 -----File: 179.png---\dancingbarefoot\stygiania\\dmack\donovan\------------
+/#
 *tion assemble to decide upon the time when the feast shall be held, so as to satisfy
 all the people of the country and the outside nations who are to be invited.
 
@@ -5201,6 +5216,7 @@ makes a feast to its dead.
 
 Returning from this festival with a captain, who has considerable intelligence and
 who will be some day of high standing in the affairs of the country, I asked him why
+#/
 -----File: 180.png---\Over_50\stygiania\\dmack\donovan\--------------------
 they called the bones of the dead <i>Atisken</i>. He explained as clearly as he could, and
 I learned from what he said that many believe that we have two souls, both divisible
