@@ -1212,7 +1212,7 @@ The object in view in presenting these details is to give the reader an
 opportunity of judging for himself in reference to some inferences drawn
 from them.
 
-[Footnote 1: Brevis Narratio, Plate XXX. Admiranda Narratio, Plate XIX][**needs period?]
+[Footnote 1: Brevis Narratio, Plate XXX. Admiranda Narratio, Plate XIX]
 
 [Footnote 2: M[oe]urs des Sauvages, II, p. 4.]
 
@@ -2041,7 +2041,7 @@ the mound. In one place, 3 feet above the body, the clay is vitrified.
 
 [Footnote 1: See, also, Smithsonian Report 1881, p. 596.]
 
-[Footnote 2: Smithonian[**typo: Smithsonian] Report 1877, p. 264.]
+[Footnote 2: Smithonian[TN-01] Report 1877, p. 264.]
 
 [Footnote 3: Page 598.]
 -----File: 110.png---\fleisch2\Jenijo\\dmack\McKeown\----------------------
@@ -3100,31 +3100,44 @@ In order to convey an idea of the number of articles deposited with
 the dead in some of these burial places, I give here a list of those obtained
 from the pit last described:
 
-/*
 One stone ax.
+
 Forty-three polished celts.
+
 Nine vessels of clay.
+
 Thirty-two arrow-heads.
+
 Twenty soapstone pipes, mostly uninjured.
+
 Twelve discoidal stones.
+
 Ten rubbing stones.
+
 Two hammer stones.
+
 One broken soapstone vessel.
+
 Six engraved shells.
+
 Four shell gorgets.
+
 One <i>Busycon perversum</i> entire, and two or three broken ones.
+
 Five very large copper beads.
+
 One lot of fragments of shells, some of them engraved.
+
 A few rude shell pins.
-*/
-[**could do as list in /*, but it's really just set like small paragraphs :>]
 -----File: 137.png---\carlyon-treloar\eruyauve\\dmack\McKeown\-------------
-/*
+
 Shell beads.
+
 A few small copper beads.
+
 Specimens of paint and plumbago.
+
 Three skulls.
-*/
 
 It is evident from the foregoing descriptions that the mode of burial
 and the depositories of the dead of the mound-building tribes of this
@@ -3212,7 +3225,7 @@ of the latter were three broken pots, containing animal bones.
 [Illustration <sc>Fig. 34.</sc>--Fire-bed, Wilkes County, North Carolina.]
 
 No. 9. A basin-shaped fire-bed, or bed of burnt clay, 8 inches thick.
-[**missing word?] section of this bed is shown in Fig. 34--<i>b</i>, <i>b</i>, <i>b</i>, the bed of burnt
+[TN-02] section of this bed is shown in Fig. 34--<i>b</i>, <i>b</i>, <i>b</i>, the bed of burnt
 clay, 8 inches thick, the material evidently placed here and not a part
 of the original soil. The basin <i>a</i> was filled with ashes, to the depth of
 12 inches; the diameter, from 1 to 2, 2 feet 3 inches, from 1 to 3 and
@@ -3239,7 +3252,7 @@ the description:[1]
 
 /#
 Digging down I struck a stone about 18 inches below the surface, which was
-found to be 18 inches long and 16 inches wide and from 2 to 3 inches in thichness[**typo? thickness ], the
+found to be 18 inches long and 16 inches wide and from 2 to 3 inches in thichness[TN-03], the
 corners rounded. It rested on solid earth and had been smoothed on top.
 
 I then made an excavation in the south of the mound, and soon struck another
@@ -3458,7 +3471,7 @@ though the bodies were crowded down, without much regard to position of hands,
 -----File: 144.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
 /#
 into a pit not exceeding 3 feet in length. One of the skulls is of especial interest, as
-possibly indicating that the remains are those of victoms[**typo? victims ] immolated in some sacrificial
+possibly indicating that the remains are those of victoms[TN-04] immolated in some sacrificial
 or burial rites. The side was crushed in, as if with a club. I have connected
 together the pieces of the upper jaw so that they retain the position in which they
 were found, a position which cannot with probability be supposed to be the result
@@ -3754,7 +3767,7 @@ to notice the various modifications of the two leading opinions.
 
 [Footnote 1: Referred to by Dr. Haven, Smithsonian Contributions, VIII, p. 25.]
 
-[Footnote 2: Transactions of the American Philological Society, Vol,[**Vol. ] III. [**missing page number?]]
+[Footnote 2: Transactions of the American Philological Society, Vol,[TN-05] III. [TN-06]]
 
 [Footnote 3: Archæology of the United States, Smithsonian Contributions, Vol. VIII, p. 31.]
 -----File: 149.png---\LastLook\nededd\\dmack\donovan\----------------------
@@ -4035,7 +4048,7 @@ the assembly sit or lean down; these sophas are covered with mats or carpets ver
 curiously made with thin splits of ash or oak woven or platted together; near the
 great pillar in the center the fire is kindled for light, near which the musicians seat
 themselves, and around about this the performers exhibit their dances and other shows
-at public festivals, which happen almost every night throughot[**sic throughout ??] the year.
+at public festivals, which happen almost every night throughot[TN-07] the year.
 #/
 
 From indications, not necessary to be mentioned here, Professor Carr
@@ -4905,12 +4918,12 @@ First. That different sections were occupied by different mound-building
 tribes, which, though belonging to much the same stage in the scale
 of civilization, differed in most instances in habits and customs to a sufficient
 extent to mark, by their modes of burial, construction of their
-mounds[** "mo" partially missing from scan], and their works of art, the boundaries of the respective areas
+mounds, and their works of art, the boundaries of the respective areas
 occupied.
 
 Second. That each tribe adopted several different modes of burial
 depending, in all probability, to some extent upon the social condition,
-position[** "p" missing in scan], and occupation of the deceased.
+position, and occupation of the deceased.
 
 Third. That the custom of removing the flesh before the final burial
 prevailed very extensively among the mound-builders of the northern
@@ -5004,7 +5017,7 @@ weeping and mourning would think that they were only ceremonial lamentations;
 they blend their voices all in one accord and in a lugubrious tone, until some one in
 authority calls for peace; at once they cease and the captain hastens to announce
 through all the cabins that such a one is dead. Upon the arrival of the friends they
-resume their mourning. Frequently some one of more[**"re" partial as is "i" in next word] importance will begin to speak
+resume their mourning. Frequently some one of more importance will begin to speak
 and will console the mother and the children, now extolling the deceased, praising
 his patience, his kindness, his liberality, his magnificence, and, if he was a warrior,
 his great courage; now saying, "What do you wish? there is no longer any remedy;
@@ -5027,7 +5040,7 @@ that kettles shall be boiled for the deceased throughout the village. No one spa
 his best efforts. They do this, in my opinion, for three reasons: First, to console
 each other, for they exchange dishes among themselves, and scarcely any one eats out
 of the kettle that he has prepared; secondly, on account of the arrival of those of
-other villages, who often come in large numbers,[** , in scan but ; more appropriate] lastly and principally, to gratify
+other villages, who often come in large numbers, lastly and principally, to gratify
 the soul of the deceased, who, they think, takes pleasure in eating his share. All the
 kettles being emptied, or at least distributed, the captain informs all the village that
 the body is to be carried to the cemetery. All the people assemble in the cabin; the
@@ -5083,7 +5096,7 @@ year for her husband, the husband for the wife; but the grand mourning itself
 -----File: 178.png---\Over_50\stygiania\\dmack\donovan\--------------------
 lasts only ten days. During this time they remain lying on their mats wrapped in
 their robes, with their faces against the earth, without speaking or replying to anything,
-save <i>C[)o]ay</i>[** c[ou]ay ??], to those who come to visit them. They do not warm themselves in
+save <i>C[)o]ay</i>, to those who come to visit them. They do not warm themselves in
 winter or eat warm things; they do not go to the feasts nor go out, save at night, for
 what they need; they cut a lock of hair from the back of the head and declare that
 it is not without deep sorrow, especially when the husband performs this ceremony
@@ -5091,7 +5104,7 @@ on the death of his wife, or the wife on the death of her husband. Such is the g
 mourning.
 
 The lesser mourning lasts all the year. When they wish to visit any one, they do
-not salute them nor say <i>C[)o]ay</i>[** c[ou]ay ??], neither do they grease their hair. The women do this,
+not salute them nor say <i>C[)o]ay</i>, neither do they grease their hair. The women do this,
 however, when commanded to do so by their mothers, who have at their disposal their
 hair, and even their persons. It is also their privilege to send their daughters to the
 feasts, without which several will not go. What I think strange is that during the
@@ -5124,7 +5137,7 @@ This feast is full of ceremonies, but the chief one is evidently that of "boilin
 the kettle." This outdoes all the others, and the festival of the dead is spoken of,
 even in the most serious councils, only under the name Chaudiere (the kettle). They
 appropriate to it all the terms of cookery, so that when they speak of hastening or
-retarding the feast they say "rake out" or "stir up the fire under the kettle;"[** doesn't he have it backwards?] and
+retarding the feast they say "rake out" or "stir up the fire under the kettle;" and
 when any one says "the kettle is overturned," that means there will be no feast.
 
 There is generally only one festival in each nation. All the bodies are placed in
@@ -5216,7 +5229,7 @@ a turtle-dove, or according to the more general belief, it goes immediately to t
 of souls.
 
 The other soul is attached to the body; it marks the corpse, as it were, and remains
-in the grave after the feast, never to leave it, "si ce n'est que quelqu'vn[** quelqu'un?] l'enfante de
+in the grave after the feast, never to leave it, "si ce n'est que quelqu'vn[TN-08] l'enfante de
 rechef." He mentioned to me, as a proof of this metempsychosis, the perfect resemblance
 which some persons bear to others who are deceased. Here is a grand philosophy.
 This is why they call the bones of the dead <i>Atisken</i>, "the souls."
@@ -5498,7 +5511,7 @@ these people, as a good means of making them understand the promises of Jesus Ch
 Is there not reason to hope that they will do this, and that as soon as possible? Certainly
 I dare to assert that with this prospect we have reason to fortify our courage
 and to say of our Hurons what St. Paul wrote to the Philippians: "<i>Confidens hoc ipsum,
-quia qui c[oe]pit in vobis opus bonum, perficiet usque[** initial u differs from medial/terminal?] in diem Christi Iesu.</i>" These poor people
+quia qui c[oe]pit in vobis opus bonum, perficiet usque in diem Christi Iesu.</i>" These poor people
 open their ears to what we tell them of the kingdom of heaven; they think it very
 reasonable, and do not dare to contradict it. They are learning the judgments of God in
 the other life; they are beginning to have recourse with us to His goodness in their necessities,
