@@ -5,7 +5,7 @@
 
 
 
-/*
+/F
 SMITHSONIAN INSTITUTION--BUREAU OF ETHNOLOGY.
 
               BURIAL MOUNDS
@@ -15,7 +15,7 @@ SMITHSONIAN INSTITUTION--BUREAU OF ETHNOLOGY.
                    BY
 
           PROF. CYRUS THOMAS.
-*/
+F/
 -----File: 058.png---\Nattgew\rnary.stuart\\mvantuyl\JHowse\---------------
 [Blank Page]
 -----File: 059.png---\Nattgew\carlyon-treloar\\mvantuyl\JHowse\------------
@@ -1054,7 +1054,7 @@ measuring from outside to outside, is 277 feet; from east to west,
 -----File: 082.png---\cmspence\Njalsson\\dmack\donovan\--------------------
 [Blank Page]
 -----File: 083.png---\cmspence\Njalsson\\dmack\donovan\--------------------
-[029]
+[027]
 235 feet; the entire outer circumference is 807 feet, the length of the
 portion along the bluff 100 feet, and of the overlapping portion at the
 entrance 45 feet. The wall is quite uniform in size, about 4 feet high
@@ -1108,7 +1108,7 @@ hundred.
 While engaged in excavating these mounds Colonel Norris observed
 a number of patches of the level area quite destitute of vegetation. The
 -----File: 084.png---\Dennis M45\Njalsson\\dmack\donovan\------------------
-[030]
+[028]
 owner of the land, who was present, could give no explanation of this
 phenomenon, simply remarking that they had always been so, never having
 produced a good crop of anything, although there was no apparent
@@ -1159,7 +1159,7 @@ The three mounds in the square enclosures marked <i>D</i>, (Plate
 I), were also opened, with the following results: The largest, oval in
 form, 30 feet long, about 20 feet broad and 4 feet high, was found to
 -----File: 085.png---\carlyon-treloar\Redgold42\\dmack\donovan\------------
-[31]
+[29]
 consist of a top layer of loose sand 1 foot thick, the remainder of hard
 yellowish clay. In the latter were found several flat sandstone fragments,
 and beneath them, on the original surface of the ground, a much
@@ -1208,10 +1208,10 @@ opportunity of judging for himself in reference to some inferences drawn
 from them.
 
 The form of the circular enclosure reminds us at the first glance of
-the palisade enclosures figured by De Bry,[031-1] which, according to Lafitau,[031-2]
+the palisade enclosures figured by De Bry,[029-1] which, according to Lafitau,[029-2]
 was the form usually adopted by the Indian tribes who were accustomed
 -----File: 086.png---\carlyon-treloar\Redgold42\\dmack\donovan\------------
-[32]
+[030]
 to erect such structures. We have here the almost exact circle, save
 where interrupted by the margin of the bluff, the overlapping of the
 ends, and the narrow entrance-way. We have here also the clay with
@@ -1252,7 +1252,7 @@ marked D, in Plate I, present considerable differences from those in
 the group, and are probably the work of those who built the enclosures.
 
 The stone grave in the oblong mound indicates the presence of individuals
-of a more southern tribe[032-1] at this place, during its second occupancy.
+of a more southern tribe[030-1] at this place, during its second occupancy.
 The position of the cist in the mound would seem to forbid the
 idea of an intrusive burial, otherwise I should certainly suppose such to
 be the fact. I cannot, in the present paper, enter into a discussion of
@@ -1261,13 +1261,12 @@ be attributed," but will state my conviction to be, after a somewhat
 careful study of the question, that they are to be ascribed to the
 Shawnees, Delawares, and Kickapoos. 
 -----File: 087.png---\carlyon-treloar\Redgold42\\dmack\donovan\------------
-[033]
 
 [Illustration: PL. II. ENLARGED FIGURE AND SECTION OF EARTHWORK A, PL. I.]
 -----File: 088.png---\carlyon-treloar\Redgold42\\dmack\donovan\------------
 [Blank Page]
 -----File: 089.png---\carlyon-treloar\Redgold42\\dmack\JHowse\-------------
-[035]
+[031]
 
 Without further discussion of this group, which, as before intimated,
 presents, so far as the mounds are concerned, some features which appear
@@ -1310,7 +1309,7 @@ posture, with which was a small earthen vase of globular form.
 A singular fact was observed in a group near the town of Peru,
 Dubuque County. This group is situated on a dry, sandy bench or
 -----File: 090.png---\Dennis M45\Redgold42\\dmack\JHowse\------------------
-[036]
+[032]
 terrace some 20 feet or more above a bayou which, makes out from the
 Mississippi. It consists chiefly of small circular tumuli, but at the
 north end are four oblong mounds varying in length from 40 to 110 feet
@@ -1362,7 +1361,7 @@ part in a mound. Nevertheless it is proper to state that Colonel Norris
 does not coincide with this conclusion, but thinks that the dismembered
 skeletons were buried as found. Possibly he is correct.
 -----File: 091.png---\Dennis M45\Redgold42\\dmack\JHowse\------------------
-[037]
+[033]
 
 In this connection, and before referring to the mounds of this district
 on the Illinois side of the Mississippi, I desire to call attention to some
@@ -1378,9 +1377,9 @@ sites of the burial places, as shown in Fig. 9, are based upon the statements
 of Mr. J. H. Jordan (the person referred to), who has resided here
 since the close of the Black Hawk war, and was the agent of the Sacs
 and Foxes from their removal hither after the war until Black Hawk's
-death, September 15, 1838.[037-1]
+death, September 15, 1838.[033-1]
 -----File: 092.png---\Dennis M45\Redgold42\\dmack\JHowse\------------------
-[038]
+[034]
 
 The extreme width of the area represented is about 2 miles. Close
 to the point of the bend formerly stood the agency building, near which
@@ -1435,7 +1434,7 @@ built for burial purposes.
 In No. 5, the largest of the group, measuring 70 feet in diameter and
 12 feet in height, a skeleton, apparently an intrusive burial, was found
 -----File: 093.png---\Dennis M45\Redgold42\\dmack\JHowse\------------------
-[039]
+[035]
 at the depth of 2 feet immediately below the apex. Near the original
 surface of the ground, several feet north of the center, were the
 much-decayed skeletons of some six or eight individuals of every size
@@ -1486,7 +1485,7 @@ burned by a fire kindled over it.
 
 A section of the mound showing the grave and stone drain is given
 -----File: 094.png---\Dennis M45\carlyon-treloar\\dmack\JHowse\------------
-[040]
+[036]
 in Fig. 10, in which 1 is the outline of the mound on the hill slope; 2,
 the pit; and 3, the stones of the drain. 
 
@@ -1529,13 +1528,12 @@ over 2 feet wide and 7 feet long. The whole had been completely covered
 with a layer of logs from 6 to 12 inches in diameter, their ends
 reaching slightly beyond the side walls in the manner shown in Fig. 12.
 -----File: 095.png---\AmberK\carlyon-treloar\\dmack\JHowse\----------------
-[041]
 
 [Illustration: PL. III. GROUP OF MOUNDS AND VERTICAL SECTION OF BLUFF, EAST DUBUQUE, ILL.]
 -----File: 096.png---\AmberK\carlyon-treloar\\dmack\JHowse\----------------
 [Blank Page]
 -----File: 097.png---\AmberK\carlyon-treloar\\dmack\JHowse\----------------
-[043]
+[037]
 
 In the center chamber were found eleven skeletons: six adults and five
 children of different ages, including one infant, the latter evidently
@@ -1571,13 +1569,13 @@ placed in a circle in a sitting or squatting posture, while in another
 mound we find the dismembered bones heaped in a confused mass. In
 one place is a single huge frame decked with the ornaments of savage
 -----File: 098.png---\AmberK\carlyon-treloar\\dmack\JHowse\----------------
-[044]
+[038]
 life, while in other places we see the members of a family lying side
 by side, and in others the bones, possibly of the ordinary people, heaped
 together in a common ossuary.
 
 The timber-covered vault in mound No. 16 calls to mind very vividly
-the similar vaults mentioned by Squier and Davis,[044-1] found in the valley
+the similar vaults mentioned by Squier and Davis,[038-1] found in the valley
 of the Scioto in Ohio. In the latter the walls as well as the covering
 were of logs, instead of stone, but the adaptation to circumstances
 may, perhaps, form a sufficient explanation of this difference. While
@@ -1602,7 +1600,7 @@ in the mounds near Davenport, Iowa, already referred to, which are
 represented on Plates IV and XXXIV of Vol. I of the Proceedings
 of that society, and to others obtained by Judge J. G. Henderson
 -----File: 099.png---\AmberK\carlyon-treloar\\dmack\JHowse\----------------
-[045]
+[039]
 from some mounds near Naples, Illinois, and described in the Smithsonian
 Report for 1882. The latter are shown in Figs. 13, 14, and 15.
 The relation of these to the pipes found in the Ohio works by Squier
@@ -1634,14 +1632,14 @@ The shell alluded to is a fine specimen of <i>Busycon perversum</i>, with the
 columella removed in order to form a drinking cup.
 
 The particular point to which I call attention is this: In Plate XI,
-Part II of De Bry,[045-1] which is reproduced in the annexed Plate IV, is
+Part II of De Bry,[039-1] which is reproduced in the annexed Plate IV, is
 represented a very small mound, on the top of which is a large shell,
 and about the base a circle of arrows sticking in the ground. The
 artist, Le Moyne de Morgues, remarks, in reference to it, "Sometimes
 the deceased king of this province is buried with great solemnity, and
 his great cup from which he was accustomed to drink is placed on a
 tumulus with many arrows set about it." The tumulus in this case is
-evidently very small, and, as remarked by Dr. Brinton,[045-2] "scarcely rises
+evidently very small, and, as remarked by Dr. Brinton,[039-2] "scarcely rises
 to the dignity of a mound." Yet it will correspond in size with what
 the Naples mound was when the shell was placed upon it; nevertheless
 the latter, when completed, formed an oval tumulus 132 feet long, 98 feet
@@ -1662,7 +1660,7 @@ the people by whom they were placed there.
 Colonel Norris opened a number of the ordinary small burial mounds
 found on the bluffs and higher grounds of Pike and Brown Counties,
 -----File: 100.png---\Dennis M45\carlyon-treloar\\dmack\JHowse\------------
-[046]
+[040]
 Illinois, which were found to be constructed in the usual method of this
 district; that is, with a layer of hard, mortar-like substance, or clay
 and ashes mixed, covering the skeletons. The positions of the skeletons
@@ -1675,7 +1673,7 @@ found, although there were sure indications that the mounds were built
 -----File: 102.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
 [Blank page]
 -----File: 103.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[049]
+[041]
 and had apparently been used for this purpose. These mounds also
 present evidence of the intrusion of an element from one people into
 the country of another. On the farm of Mr. Edward Welch, Brown
@@ -1727,10 +1725,10 @@ The region has been but partially explored, yet it is probable the following
 examples will furnish illustrations of most of the types to be
 found in it.
 -----File: 104.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[050]
+[042]
 
 From an article by Messrs. Hardy and Scheetz in the Smithsonian
-Report for 1881,[050-1] we learn the following particulars regarding the
+Report for 1881,[042-1] we learn the following particulars regarding the
 burial mounds of Ralls County:
 
 Occasionally an isolated one is found, but almost invariably they are
@@ -1782,7 +1780,7 @@ wholly of stone, and the remains found in them were almost wholly decomposed.
 On another ridge the same parties found another row with four stone
 mounds similar to those described, except that the cists were square
 -----File: 105.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[051]
+[043]
 instead of circular, the sides of the latter being equal to the diameter of
 the former. In these only small fragments of bone could be found.
 
@@ -1793,7 +1791,7 @@ yet it is possible they may have been intended for some other use.
 The mounds of Pike
 County are chiefly of mixed
 material similar to those
-mentioned,[051-1] though some
+mentioned,[043-1] though some
 of them contain rectangular
 stone vaults. One of
 these vaults, measuring 4
@@ -1835,8 +1833,8 @@ crest of this ridge is a line
 of circular mounds shown in Fig. 18. These range in size from 15
 to 50 feet in diameter and from 2 to 6 feet high, and are circular in
 -----File: 106.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[052]
-form. In No. 3,[052-1] diameter 35 feet and height 5 feet, situated in the central
+[044]
+form. In No. 3,[044-1] diameter 35 feet and height 5 feet, situated in the central
 portion, was found a stone coffin or cist 7 feet long and 2 feet wide,
 formed of slabs of sandstone in the usual manner. This was covered
 first with similar slabs and then the whole incased in a layer of rougher
@@ -1887,7 +1885,7 @@ the separate masses. This would indicate that the mounds were built
 by successive deposits of mortar thus mixed with charred bones, and
 not in strata but in masses."
 -----File: 107.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[053]
+[045]
 
 
 
@@ -1926,7 +1924,7 @@ built of stone, rudely laid up, without cement of any kind. Burial by fire seems
 have been frequently practiced by the mound-builders. Urn burial also appears to
 have prevailed to a considerable extent in the Southern States. With the skeletons
 in these mounds are found various remains of art, comprising ornaments, utensils,
-and weapons.[053-1]
+and weapons.[045-1]
 #/
 
 For the purpose of conveying to the mind a clear idea of the character
@@ -1941,7 +1939,7 @@ after it had been cleared, leveled, and packed; on this the body was
 laid at full length. It was then covered with another layer of bark and
 the mound was heaped over this.
 -----File: 108.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[054]
+[046]
 
 Although no mounds containing stone sepulchers fell under their
 notice during their explorations, they obtained satisfactory evidence
@@ -1958,7 +1956,7 @@ different parts of this State, but unfortunately the descriptions are
 based largely on memory and second-hand statements and hence do not
 have that stamp of accuracy and authenticity that is desirable. For
 example, a large stone mound, which formerly stood a short distance
-from Newark, is described[054-1] as conical in form, 182 feet in diameter, and
+from Newark, is described[046-1] as conical in form, 182 feet in diameter, and
 from 40 to 50 feet high, composed of stones in their natural shape.
 This, upon removal, was found to cover some fifteen or sixteen small
 earth mounds. In one of these were found human bones and river
@@ -1970,22 +1968,22 @@ fifteen copper rings and a "breastplate" of the same metal. The wood
 of the trough and covering was in a good state of preservation. The
 clay which covered it was impervious both to air and water. The logs
 -----File: 109.png---\fleisch2\carlyon-treloar\\dmack\McKeown\-------------
-[055]
+[047]
 which overlaid the wooden sarcophagus "were so well preserved that
 the ends showed the axe marks, and the steepness of the kerf seemed
 to indicate that some instrument sharper than the stone axe found
 throughout the West had been employed to cut them."
 
 "In another of these mounds a large number of human bones, but no
-other relics worthy of note, were found."[055-1]
+other relics worthy of note, were found."[047-1]
 
 In a mound situated in Clear Creek Township, Ashland County, a
 stone coffin or cist was discovered, constructed of flat stones set up
 edgewise. It contained six or eight skeletons, "neatly cleaned and
-packed, in a good state of preservation."[055-2]
+packed, in a good state of preservation."[047-2]
 
 A statement worthy of notice in this connection is made by Mr. H.
-B. Case in the Smithsonian Report for 1881.[055-3] The Delaware Indians
+B. Case in the Smithsonian Report for 1881.[047-3] The Delaware Indians
 formerly had a village in the northern part of Green Township, Ashland
 County, which was still occupied by them when the white settlers
 reached there in 1809. An examination of their graves in 1876 brought
@@ -2027,7 +2025,7 @@ must have been other fires than that immediately around and above the body, and
 many of them, because on one side of the mound the clay is burned even to the top of
 the mound. In one place, 3 feet above the body, the clay is vitrified.
 -----File: 110.png---\fleisch2\Jenijo\\dmack\McKeown\----------------------
-[056]
+[048]
 
 It is possible that fires were built at different levels, open fires, and that most of
 the ashes were blown away by the winds which often sweep over the plain. I have
@@ -2076,7 +2074,7 @@ local fire in the reddening or hardening of the clay or in remnants of
 charcoal."
 
 As bearing upon a suggestion made by Colonel Norris, and previously
-referred to,[056-1] in regard to the probable use of copper beads found across
+referred to,[048-1] in regard to the probable use of copper beads found across
 the limbs of a skeleton, I call attention to another statement of Professor
 Andrews. Speaking of the School-house mound he says:
 
@@ -2084,7 +2082,7 @@ Andrews. Speaking of the School-house mound he says:
 At a point near the northwestern corner of the school-house and perhaps 15 feet
 from the center of the mound, there was plowed up, in extremely hard and dry dirt,
 -----File: 111.png---\fleisch2\stygiania\\dmack\McKeown\-------------------
-[057]
+[049]
 a large piece of what I suppose to have been an ornamented dress. It was covered
 with copper beads, which were strung on a buckskin string and placed on four layers
 of the same skin. It was found 8 feet below the original surface of the mound and
@@ -2099,7 +2097,7 @@ Recently some interesting burial mounds near Madisonville have been
 carefully explored by Dr. C. L. Metz in the interest of the Peabody
 Museum. Only partial notices of these explorations, which are not yet
 completed, have been published, but we deem these of sufficient importance
-in this connection to quote freely from them,[057-1] so far as they serve
+in this connection to quote freely from them,[049-1] so far as they serve
 to illustrate the modes of burial and construction of burial mounds of
 this region.
 
@@ -2143,7 +2141,7 @@ which the mound was built, and was nearly filled with soft, spongy ashes mixed w
 a reddish substance. Extended at full length at the bottom of the pit was a human
 skeleton, with the head to the west. Among the bones of the neck a single shell bead
 -----File: 112.png---\fleisch2\Jenijo\\dmack\McKeown\----------------------
-[058]
+[050]
 was found; at the feet were ten stones or small bowlders, such as are common in the
 drift gravel. It is evident that this interesting tumulus was erected over the grave
 which was dug in the underlying gravel, and that the human bones placed in the
@@ -2155,7 +2153,7 @@ which was under the center of the mound, seems to be sufficient proof of this.
 
 Another mound, nearer the river, situated on an elevated portion of
 bottom land, was found to differ in construction from any of the others
-explored in this vicinity. This is described as follows:[058-1]
+explored in this vicinity. This is described as follows:[050-1]
 /#
 According to Mr. William Edwards, sixty years ago it was about 9 feet high, and
 covered by a heavy forest growth, which also extended over the region about. Over
@@ -2200,7 +2198,7 @@ made, or at all events completed, as five of the burials had taken place above i
 the plain about the mound are evidences of the site of a former village, and the annual
 plowing brings to light many animal remains, fragments of pottery, and stone implements
 -----File: 113.png---\fleisch2\Jenijo\\dmack\McKeown\----------------------
-[059]
+[051]
 of the same character as those from, the mound. From this fact, and from the
 character of the burials in the mound, as well as that of the objects found with the
 skeletons, and from the absence of the characteristic ornaments found with so many of
@@ -2208,7 +2206,7 @@ the human remains in the Turner group and other ancient mounds of the Ohio Valle
 we are led to look upon this stone mound as the burial place of a tribe of Indians living
 in the region subsequent to the builders of the Turner mounds. The remains found
 in this stone mound, as a whole, indicate that the people here buried were closely connected
-with those who made the singular ash-pits in the ancient cemetery near Madisonville.[059-1]
+with those who made the singular ash-pits in the ancient cemetery near Madisonville.[051-1]
 #/
 
 Passing into West Virginia we notice first the celebrated Grave
@@ -2253,7 +2251,7 @@ sandstones were a good load for two ordinary men.
 
 The removal of a wagon load or so of these stones brought to light a
 -----File: 114.png---\fleisch2\Redgold42\\dmack\McKeown\-------------------
-[060]
+[052]
 stone vault 7 feet long and 4 feet deep, in the bottom of which was found
 a large and much decayed human skeleton, but wanting the head,
 which the most careful examination failed to discover. A single rough
@@ -2296,7 +2294,7 @@ under the head, which, together with a spear-point of black flint, were
 incased in a mass of mortar-like substance, which had evidently been
 wrapped in some textile fabric. On the breast was a copper gorget (Fig.
 -----File: 115.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
-[061]
+[053]
 21). In each hand were three spear-heads of black flint, and others
 were about the head, knees, and feet. Near the right hand were two
 hematite celts, and on the shoulder were three large and thick plates of
@@ -2334,7 +2332,7 @@ circular and about 140 feet in diameter. The large mound is conical in
 form, 173 feet in diameter, and 33 feet high. It is slightly truncated,
 the top having been leveled off some forty years ago for the purpose
 -----File: 116.png---\fleisch2\Redgold42\\dmack\McKeown\-------------------
-[062]
+[054]
 of building a judge's stand in connection with a race-course that was
 laid out around the mound.
 
@@ -2385,13 +2383,12 @@ of this explanation.
 In order to show the character of the smaller burial mounds of this
 region, I give descriptions of a few opened by Colonel Norris.
 -----File: 117.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[063]
 
 [Illustration: PL. V. PLAT OF ANCIENT WORKS, KANAWHA COUNTY, W. VA.]
 -----File: 118.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
 [Blank Page]
 -----File: 119.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[065]
+[055]
 
 One 20 feet in diameter and 7 feet high, with a beech tree 30 inches
 in diameter growing on it, was opened by running a broad trench through
@@ -2445,7 +2442,7 @@ group, for the purpose of affording the reader the means of comparison.
 Below the center of No. 7 (see Plate), sunk into the original earth,
 was a vault about 8 feet long, 3 feet wide, and 3 feet deep. Lying extended
 -----File: 120.png---\bmckeever\Njalsson\\dmack\McKeown\-------------------
-[066]
+[056]
 on the back in the bottom of this, amid the rotten fragments of
 a bark coffin, was a decayed human skeleton, fully 7 feet long, with
 head west. No evidence of fire was to be seen, nor were any stone implements
@@ -2494,7 +2491,7 @@ by the positions of these minor vaults, and the supposed center of
 the base of the mound (the shaft not being exactly central), and but 2 feet
 below the floor of the main vault, and in a fine mortar or cement, were
 -----File: 121.png---\e2l2l\Bruce the first\\dmack\McKeown\----------------
-[067]
+[057]
 found two cavities resembling in form the bottle or gourd shaped vessel
 so frequently met with in the mounds of southeastern Missouri and
 northeastern Arkansas. Unfortunately the further investigation of
@@ -2540,7 +2537,7 @@ It consisted of a layer of well-prepared mortar, apparently clay,
 slightly mixed with ashes. This was not more than 6 or 8 inches thick
 in the center of the basin-shaped depression, where it was about 1 foot
 -----File: 122.png---\dustiepagez\Redgold42\\dmack\McKeown\----------------
-[068]
+[058]
 lower than at the other margin.  It was burned to a brick-red and covered
 with a compact layer of very fine white ashes, scattered thickly,
 through which were small water-worn bowlders, bearing evidences of
@@ -2597,7 +2594,7 @@ that Indians were the authors of these works, it cannot be claimed that
 -----File: 124.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
 [Blank page]
 -----File: 125.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
-[071]
+[059]
 all or even the larger portion of them were built by Indians inhabiting
 the district when first visited by the whites, or by their ancestors. 
 
@@ -2625,7 +2622,7 @@ Tennessee, North Carolina, and Georgia. The great basin bounded north by Lake
 Erie, the Miamis, and the Illinois, west by the Mississippi, east by the Alleghanies,
 and south by the headwaters of the streams that flow into the Gulf of Mexico, seems
 to have been uninhabited except by bands of Shawnees, and scarcely visited except
-by war parties of the Five Nations.[071-1]
+by war parties of the Five Nations.[059-1]
 #/
 
 With the exception of some slight notices of the Erie or Cat Nation
@@ -2652,7 +2649,7 @@ from consideration all tribes known to have had their principal seats
 north of the Ohio in historic times, except the Eries, which form an uncertain
 and so far indeterminable factor in the problem.
 -----File: 126.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
-[072]
+[060]
 
 The data so far obtained seem to me to indicate the following as the
 most promising lines of research: The possible identity or relation of
@@ -2692,7 +2689,7 @@ the chief works. But these were of comparatively short duration, and
 were evidently Indian hordes pressed westward and southward by the
 Iroquois tribes and the advance of the whites.
 -----File: 127.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
-[073]
+[061]
 
 
 
@@ -2748,7 +2745,7 @@ height of 4 feet was reached, so as to be covered at the top by a single
 soapstone rock of moderate size. On the top of the head of the skeleton
 and immediately under the capstone of the vault were found several
 -----File: 128.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
-[074]
+[062]
 plates of silver mica, which had evidently been cut with some rude implement.
 Although the bones were much decayed, yet they were retained
 in position by the dirt which filled the vault, an indication that
@@ -2781,7 +2778,7 @@ standing central one.
 At A was found a considerable quantity of black paint in little lumps,
 which appear to have been molded in the hull of some nut. At B was
 -----File: 129.png---\Dennis M45\Redgold42\\dmack\McKeown\-----------------
-[075]
+[063]
 a cubical mass of water-worn bowlders, built up solidly and symmetrically,
 24 inches long, 18 inches wide, and 18 inches high, but with no
 bones, specimens of art, coal, ashes, or indications of fire on or around
@@ -2816,7 +2813,7 @@ the lines of which could be distinctly traced, varied from 2-1/2 to
 3 feet. A rude sketch of this triangle, showing the relative positions
 of the skeletons, is given in Fig. 26.
 -----File: 130.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[076]
+[064]
 
 Nos. 1, 2, 3, 4, 5, 6, 7, 8, and 9 indicate the positions of single skeletons
 found lying horizontally, on their backs, heads east and northeast.
@@ -2855,7 +2852,7 @@ edges meet in a straight joint on one side. (See Fig. 28.) The plate
 out of which they were made was as smooth and even in thickness as
 though it had been rolled.
 -----File: 131.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[077]
+[065]
 
 [Illustration: <sc>Fig. 28.</sc>--Cylindrical copper bead from mound, Caldwell County, North Carolina.]
 
@@ -2878,7 +2875,7 @@ an inch, both edges sharp; it is apparently part of the blade of a
 long, slender, cutting or thrusting weapon of some kind, as a sword,
 dagger, or knife. (Shown in Fig. 31.) The other specimen is part of a
 -----File: 132.png---\cindysbox\adiantum\\dmack\McKeown\-------------------
-[078]
+[066]
 round, awl-shaped implement, a small part of the bone handle in which
 it was fixed yet remaining attached to it.
 
@@ -2923,7 +2920,7 @@ through one end.
 3. Sitting with the face toward the center; several polished celts at
 the feet.
 -----File: 133.png---\carlyon-treloar\eruyauve\\dmack\McKeown\-------------
-[079]
+[067]
 
 [Illustration: <sc>Fig. 32.</sc>--W. D. Jones mound, Caldwell County, North Carolina.]
 
@@ -2953,7 +2950,7 @@ face up and food-cup (without handle) at the right side of the head.
 12. Horizontal, face up, head southeast; shell beads around the neck,
 a hook or crescent shaped piece of copper on the breast, and a soapstone
 -----File: 134.png---\carlyon-treloar\eruyauve\\dmack\McKeown\-------------
-[080]
+[068]
 pipe near the face; one hand near each side of the head, each grasping
 small, conical copper ornaments (ear-drops) and a bunch of hair. Was
 this individual, apparently a female, buried alive?
@@ -3018,7 +3015,7 @@ the others, was all thrown out.
 No. 1. A bed of charred or rather burnt bones, occupying a space 3
 feet long, 2 feet wide, and about 1 foot deep. The bones were so thoroughly
 -----File: 135.png---\carlyon-treloar\eruyauve\\dmack\McKeown\-------------
-[081]
+[069]
 burned that it was impossible to determine whether they were human
 or animal. Beneath this bed the yellow sand was baked to the depth
 of 2 or 3 inches. Under the bones was an uncharred shell gorget.
@@ -3046,7 +3043,7 @@ is, "the heads running back and compressed in front."
 Scattered through this grave, between and above the skeletons, were
 polished celts, discoidal stones, shells, mica, galena, fragments of pottery,
 -----File: 136.png---\carlyon-treloar\eruyauve\\dmack\McKeown\-------------
-[082]
+[070]
 and one whole pot. Around the neck and wrists of some of the
 skeletons were also shell beads. There may have been more than
 twenty-five individuals buried here, this, however, being the number of
@@ -3079,7 +3076,7 @@ In this grave were found four pots and two food-cups, the handle
 of one representing an owl's head and that of the other an eagle's head.
 One of the small pots was inside a larger one. Scattered among the
 skeletons were shell beads, polished celts, discoidal stones, paint, etc.
-None of the skeletons were inclosed in stone graves.[082-1]
+None of the skeletons were inclosed in stone graves.[070-1]
 
 In order to convey an idea of the number of articles deposited with
 the dead in some of these burial places, I give here a list of those obtained
@@ -3115,7 +3112,7 @@ One lot of fragments of shells, some of them engraved.
 
 A few rude shell pins.
 -----File: 137.png---\carlyon-treloar\eruyauve\\dmack\McKeown\-------------
-[083]
+[071]
 
 Shell beads.
 
@@ -3138,7 +3135,7 @@ groups in the triangle and Lenoir burial pit--the skeletons were probably
 deposited after the flesh was removed.
 
 We are reminded by these pits of the mode of burial practiced by
-some of the Indian tribes, as mentioned by Lafitau,[083-1] Brebeuf,[083-2] etc.; but,
+some of the Indian tribes, as mentioned by Lafitau,[071-1] Brebeuf,[071-2] etc.; but,
 before attempting to draw conclusions, we will give other illustrations
 of the burial mounds of this district, which are far from being uniform
 in character.
@@ -3170,7 +3167,7 @@ No. 2. A grave 2 feet wide, 6 feet long, and 5 feet deep. It contained
 quite a quantity of animal bones, some of them evidently those of a
 bear; also charcoal, mussel shells, and one bone implement.
 -----File: 138.png---\carlyon-treloar\nededd\\dmack\McKeown\---------------
-[084]
+[072]
 
 No. 3. A grave of the same size and depth as No. 2, containing animal
 bones, broken pottery, and some charcoal.
@@ -3219,7 +3216,7 @@ bones, mussel shells, and broken pottery.
 
 There was no mounding over any of these graves or pits.
 -----File: 139.png---\carlyon-treloar\nededd\\dmack\McKeown\---------------
-[085]
+[073]
 
 The basin-shaped fire-bed, No. 9, reminds us very strongly of the so-called
 altars of the Ohio mounds, and may possibly assist us in arriving
@@ -3229,7 +3226,7 @@ A mound opened by Dr. J. M. Spainhour in Burke County, some
 years ago, presents some variations, though, so far as the posture and
 relative positions of the skeletons are concerned, reminding us of those
 in Caldwell County. The following extract is from the article containing
-the description:[085-1]
+the description:[073-1]
 
 /#
 Digging down I struck a stone about 18 inches below the surface, which was
@@ -3282,7 +3279,7 @@ almost entirely decomposed, and crumbled when handled.
 A complete exploration of this mound, the dimensions of which are not
 given, would possibly have shown that the skeletons were arranged
 -----File: 140.png---\carlyon-treloar\scholarhere2\\dmack\McKeown\---------
-[086]
+[074]
 somewhat in a circle. The doctor does not state whether there was a
 pit.
 
@@ -3327,7 +3324,7 @@ Although Mr. Emmert failed to find any evidence that this was a
 burial mound, its similarity with those of Caldwell County will, I think,
 justify us in concluding it was constructed for this purpose.
 -----File: 141.png---\carlyon-treloar\nededd\\dmack\McKeown\---------------
-[087]
+[075]
 
 [Illustration: <sc>Fig. 36.</sc>--Section of mound, Henderson County, North Carolina.]
 
@@ -3374,7 +3371,7 @@ feet wide through it, but soon reached a wall 3 feet high, built of "river
 rock." He then worked around this, finding it to be an almost perfect
 circle, 14 feet in diameter, inside of which were found, on throwing out
 -----File: 142.png---\carlyon-treloar\nededd\\dmack\McKeown\---------------
-[088]
+[076]
 the dirt, twelve stone graves or vaults, built of the same kind of stones,
 each containing a sitting skeleton, as shown in Fig. 37. One of these
 graves or vaults was exactly in the center, the other eleven being placed
@@ -3392,7 +3389,7 @@ depth of about 3 inches with charcoal, and the graves were built on this
 layer. Both of these mounds were on the bench or upper bottom, and
 about three-fourths of a mile from the river.
 -----File: 143.png---\carlyon-treloar\johngrist\\dmack\McKeown\------------
-[089]
+[077]
 
 Mr. Emmert says he learned that there was a tradition of the neighborhood
 that the Indians once fought a great battle at this place, and
@@ -3436,7 +3433,7 @@ A burial mound situated on the left bank of the Tennessee River,
 about 1 mile from Chattanooga, was opened by Mr. M. O. Read in 1865.
 This was oval in form and flat on top, the diameters of the base 158
 and 120 feet, and those of the top 82 and 44 feet; height, 19 feet. Mr.
-Read says:[089-1]
+Read says:[077-1]
 
 /#
 For the purpose of examination, a tunnel was excavated into the mound from
@@ -3449,7 +3446,7 @@ was carried downward about 2 feet, when two skeletons were uncovered, fragments
 of which preserved are marked No. 1. The bones were packed in a small space, as
 though the bodies were crowded down, without much regard to position of hands,
 -----File: 144.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[090]
+[078]
 into a pit not exceeding 3 feet in length. One of the skulls is of especial interest, as
 possibly indicating that the remains are those of victoms[TN-04] immolated in some sacrificial
 or burial rites. The side was crushed in, as if with a club. I have connected
@@ -3505,7 +3502,7 @@ wooden vaults of the Grave Creek and other mounds of West Virginia,
 but in the form of the mound we have an indication that it belongs to
 the southern class of ancient works.
 
-Rev. E. O. Dunning mentions[090-1] a stone-grave mound which he examined
+Rev. E. O. Dunning mentions[078-1] a stone-grave mound which he examined
 in the valley of the Little Tennessee. Speaking of this mound he
 remarks:
 
@@ -3514,7 +3511,7 @@ I did not expect to find rock graves in a mound of earth, but after clearing awa
 rubbish and penetrating 6 feet below the top, near the center the workman struck a
 slab of slate, which proved to be part of the covering of a stone tomb. It was much like
 -----File: 145.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[091]
+[079]
 those scattered over the "river bottom"--more nicely constructed, however, and fitted
 with more care, being arched over the top, at an acute angle, with pieces of slate 3
 inches thick. Owing to its situation, raised above the level of the river and covered
@@ -3575,7 +3572,7 @@ data here which appear to form connecting links between the prehistoric
 and the historic times, and hence call for some discussion in regard to
 the authors.
 -----File: 146.png---\carlyon-treloar\Redgold42\\dmack\McKeown\------------
-[092]
+[080]
 
 Fourth. The statement of the result of our explorations of these
 works (especially the burial mounds) will, as I conceive, be incomplete
@@ -3605,7 +3602,7 @@ necessary accompaniments, but which has disappeared before the inroads
 of savage hordes, leaving behind it no evidences of its existence,
 its glory, power, and extent save these silent forest-covered remains,
 has something so fascinating and attractive in it, that when once it has
-taken possession of the mind, it warps and biases all its conclusions.[092-1]
+taken possession of the mind, it warps and biases all its conclusions.[080-1]
 
 So strong, in fact, is the hold which this theory (in the broad sense,
 including also the Toltec and Aztec theories) has taken of the minds
@@ -3625,7 +3622,7 @@ to be the correct one, as the facts so far ascertained appear to point in
 that direction, but I am not wedded to it; on the contrary, I am willing
 to follow the facts wherever they lead.
 -----File: 147.png---\LastLook\carlyon-treloar\\dmack\McKeown\-------------
-[093]
+[081]
 
 Although additional data will hereafter be obtained and many new
 and important facts be brought to light, yet, as I believe, sufficient evidence
@@ -3663,7 +3660,7 @@ taken up the historical side of the question, but it must not be received for mo
 he intended. He only shows from historical data what the spade and pick have disclosed
 to the archæologist. It is simply one side of the shield; the other is still waiting
 to be turned to the light; and as history will not help us to read the reverse, only
-patient and careful exploration will bring out its meaning.[093-1]
+patient and careful exploration will bring out its meaning.[081-1]
 #/
 
 This, it is true, is but an incidental paragraph thrown into a report of
@@ -3683,7 +3680,7 @@ fact that remarkable antiquities were to be found in our country.
 
 About this time President Stiles, of New Haven, Dr. Franklin, Dr.
 -----File: 148.png---\LastLook\carlyon-treloar\\dmack\McKeown\-------------
-[094]
+[082]
 Barton, and a few other leading minds of that day, becoming thoroughly
 convinced of the existence of these antiquities, and having received descriptions
 of a number of them, began to advance theories as to their
@@ -3694,7 +3691,7 @@ of their origin," that they belonged to the most distant antiquity.
 Dr. Franklin, in reply to the inquiry of President Stiles, suggested
 that the works in Ohio might have been constructed by De Soto in his
 wanderings. This suggestion was followed up by Noah Webster with
-an attempt to sustain it,[094-1] but he afterwards abandoned this position
+an attempt to sustain it,[082-1] but he afterwards abandoned this position
 and attributed these works to Indians.
 
 Captain Heart, in reply to the inquiries addressed to him by Dr. Barton,
@@ -3703,7 +3700,7 @@ by De Soto and his followers, but belonged to an age preceding the discovery
 of America by Columbus; that they were not due to the Indians
 or their predecessors, but to a people not altogether in an uncultivated
 state, as they must have been under the subordination of law and a well-governed
-police.[094-2]
+police.[082-2]
 
 This is probably the first clear and distinct expression of a view which
 has subsequently obtained the assent of so many of the leading writers
@@ -3725,7 +3722,7 @@ of art beyond what might be expected of existing tribes, with the simple differe
 of a more numerous population, and consequently better defined and more permanent
 habitations; the other finding proofs of skill and refinement, to be explained, as they
 believe, only on the supposition that a superior race, or more probably a people of
-foreign and higher civilization, once occupied the soil.[094-3]
+foreign and higher civilization, once occupied the soil.[082-3]
 #/
 
 Bishop Madison was the representative of the first class. Dr. Harris
@@ -3738,7 +3735,7 @@ on this subject substantially set forth in these authorities, it is unnecessary
 to follow up the history of the controversy except so far as is required
 to notice the various modifications of the two leading opinions.
 -----File: 149.png---\LastLook\nededd\\dmack\donovan\----------------------
-[095]
+[083]
 
 Those holding the opinion that the Indians were not the authors of
 these works, although agreeing as to this point and hence included in
@@ -3749,12 +3746,12 @@ Toltecs, who, as they supposed, occupied the Mississippi Valley previous
 to their appearance in the vale of Anahuac.
 
 Among the more recent advocates of this theory are Mr. John T. Short,
-author of "The North Americans of Antiquity;"[095-1] Dr. Dawson, in his
+author of "The North Americans of Antiquity;"[083-1] Dr. Dawson, in his
 "Fossil Man," who accepts the tradition respecting the Tallegwi, but
 identifies them with the Toltecs; Rev. J. P. MacLean, author of the
 "Mound Builders" and Dr. Joseph Jones, in his "Antiquities of Tennessee."
 
-Wilson, in his "Prehistoric Man,"[095-2] modifies this view somewhat, looking
+Wilson, in his "Prehistoric Man,"[083-2] modifies this view somewhat, looking
 to the region south of Mexico for the original home of the Toltecs,
 and deriving the Aztecs from the mound-builders.
 
@@ -3771,10 +3768,10 @@ Baldwin believes that the mound-builders were Toltecs, but thinks
 they came originally from Mexico or farther south, and, occupying the
 Ohio Valley and the Gulf States, probably for centuries, were at the
 last driven southward by an influx of barbarous hordes from the more
-northern regions, and appeared again in Mexico.[095-3] Bradford, thirty years
-previous to this, had suggested Mexico as their original home.[095-4] Lewis
+northern regions, and appeared again in Mexico.[083-3] Bradford, thirty years
+previous to this, had suggested Mexico as their original home.[083-4] Lewis
 H. Morgan, on the other hand, supposes that the authors of these remains
-came from the Pueblo tribes of New Mexico. Dr. Foster[095-5] agrees
+came from the Pueblo tribes of New Mexico. Dr. Foster[083-5] agrees
 substantially with Baldwin. We might include in this class a number
 of extravagant hypotheses, such as those held by Haywood, Rafinesque,
 and others among the older, as well as by a few of the more recent
@@ -3789,7 +3786,7 @@ followers of Dr. Harris. The differences between the advocates of this
 view are of minor importance, and only appear when the investigation
 is carried one step further back and the attempt is made to designate
 -----File: 150.png---\shado_jaguar\scholarhere2\\dmack\donovan\------------
-[096]
+[084]
 the particular tribe, nation, people, or ethnic family to which they appertained.
 
 The traditions of the Delawares, as given by Heckewelder, in his "History
@@ -3843,7 +3840,7 @@ but that <i>all the mounds and earthworks of North America</i> were made by
 That the term "mound-builders" is as applicable to the people who
 constructed the mounds of Siberia, Japan, or elsewhere as those who
 -----File: 151.png---\dancingbarefoot\scholarhere2\\dmack\donovan\---------
-[097]
+[085]
 built the tumuli of the Mississippi Valley must be admitted, but the
 term, when used in this country with reference to the mounds of this
 country, has, as is well known, been generally understood to include only
@@ -3897,7 +3894,7 @@ manifestly the work of Europeans of post-Columbian times) built by
 the Indians found in possession of this region at the time of its discovery
 and their ancestors, or are they in part to be attributed to other
 -----File: 152.png---\Over_50\scholarhere2\\dmack\donovan\-----------------
-[098]
+[086]
 more civilized races or peoples, as the Aztecs, Toltecs, Pueblo tribes, or
 some lost race of which we possess no historical mention? I say in
 part, as it has long been conceded, that some of these works are to be
@@ -3937,7 +3934,7 @@ It is for this reason that I propose to discuss somewhat briefly the
 question of the probable authorship of the works in the Appalachian
 district.
 -----File: 153.png---\Over_50\Redgold42\\dmack\donovan\--------------------
-[099]
+[087]
 
 
 
@@ -3961,14 +3958,14 @@ told me that at every plowing he struck more or less of these posts, and, on dig
 for them, some six or seven were found at different places, and in such order as showed
 that they had been placed in the earth at regular intervals and according to a definite
 plan. On the top, in the line of the greatest diameter and near the center of
-the mound, another and a larger post or column, also of cedar, was found.[099-1]
+the mound, another and a larger post or column, also of cedar, was found.[087-1]
 #/
 
 Quoting Bartram's description (given below) of the council house of
 the Cherokees in the town of Cowe, he concludes, and I think correctly,
 that this mound was the site of a similar building.
 
-Bartram's description is as follows:[099-2]
+Bartram's description is as follows:[087-2]
 
 /#
 The Council or Town House is a large rotunda, capable of accommodating several
@@ -3998,7 +3995,7 @@ without and the smoke to escape when a fire is kindled; but as there is but a sm
 fire kept, sufficient to give light at night, and that fed with dry, small, sound wood,
 divested of its bark, there is but little smoke; all around the inside of the building,
 -----File: 154.png---\Over_50\Redgold42\\dmack\donovan\--------------------
-[100]
+[088]
 betwixt the second range of pillars and the wall, is a range of cabins or sophas consisting
 of two or three steps, one above or behind the other, in theatrical order, where
 the assembly sit or lean down; these sophas are covered with mats or carpets very
@@ -4013,7 +4010,7 @@ argues that the mound could not have been intended for burial purposes,
 but was evidently erected for the foundation of a building of
 some kind.
 
-In a subsequent paper,[100-1] "Mounds of the Mississippi Valley," he not
+In a subsequent paper,[088-1] "Mounds of the Mississippi Valley," he not
 only adheres to the theory advanced in the tenth report of the Peabody
 Museum, but gives additional reasons for believing it to be true.
 
@@ -4054,9 +4051,9 @@ of North Carolina, at least to the Yadkin, a claim which was conceded
 by the whites and acted on officially by State and national authority
 and denied by no Indian tribe.
 -----File: 155.png---\Over_50\Redgold42\\dmack\donovan\--------------------
-[101]
+[089]
 
-Haywood expressly states that[101-1]--
+Haywood expressly states that[089-1]--
 
 /#
 the Cherokees were firmly established on the Tennessee River or Hogohega [the
@@ -4068,9 +4065,9 @@ Broad River, and the headwaters of the Savannah--
 a statement borne out by the fact that, as late as 1756, when the English
 built Fort Dobbs on the Yadkin, not far from Salisbury, they
 first obtained the privilege of doing so by treaty with Attacullaculla,
-the Cherokee chief.[101-2]
+the Cherokee chief.[089-2]
 
-Haywood asserts,[101-3] upon what authority is not known, that--
+Haywood asserts,[089-3] upon what authority is not known, that--
 
 /#
 before the year 1690 the Cherokees, who were once settled on the Appomattox River,
@@ -4096,7 +4093,7 @@ time somewhere in western North Carolina, says: "The Indians of
 these parts are none of those which the English removed from Virginia;
 these were far more rude and barbarous, feeding only upon raw flesh
 and fish, until these taught them to sow corn and showed them the use
-of it."[101-4] Thirdly, because it is evident that they were located in substantially
+of it."[089-4] Thirdly, because it is evident that they were located in substantially
 the same territory when De Soto passed through the northern
 part of Georgia, as it is now admitted that the "Chelaques" or "Achalaques"
 mentioned by the chroniclers of his ill-starred expedition were
@@ -4110,7 +4107,7 @@ conflicting, still there are a few items to be gleaned from them,
 which, I think, may be relied upon as pointing in the proper direction.
 The first is, the positive statement that they formerly had a
 -----File: 156.png---\Over_50\Redgold42\\dmack\donovan\--------------------
-[102]
+[090]
 settlement, or were settled on or near the Nolichucky; the second is,
 that they were driven from some more northern section by their enemies;
 and third, their constant and persistent claim that, of right,
@@ -4164,7 +4161,7 @@ implements found with him, were discovered three pieces of iron. That
 one of the pieces, at least, is part of an implement of European manufacture,
 I think no one who examines it will doubt (see Fig. 31). It appears
 -----File: 157.png---\Over_50\Redgold42\\dmack\donovan\--------------------
-[103]
+[091]
 to be part of a sword blade or the blade of a large knife. Another
 of the pieces is apparently a large awl or punch, a part of the deer-horn
 handle yet remaining attached to it. A chemical examination made by
@@ -4201,26 +4198,26 @@ were the Tuscaroras. We learn from John Lederer, who visited them
 in 1670, on his return from the Cherokee country, that they were in the
 habit of "decking themselves very fine with pieces of bright copper in
 their hair and ears and about their neck, which, upon festival occasions,
-they use as an extraordinary bravery."[103-1] While it is well known that
+they use as an extraordinary bravery."[091-1] While it is well known that
 these two tribes were brought into contact with each other through being
 constantly at war, until the latter removed to the north and joined the
 Five Nations, it is more likely that these articles of European workmanship
 were obtained chiefly from the Spaniards, who, as is now known,
 worked the gold mines in northern Georgia at an early date. We learn
-from Barcia's "Ensayo Cronologico"[103-2] that Tristan de Luna, who, in
+from Barcia's "Ensayo Cronologico"[091-2] that Tristan de Luna, who, in
 1559, went in search of the mines of "Coza" (the name by which the
 region of northern Georgia was then known), succeeded in reaching
 the region sought, and even heard, while there, of the negro Robles,
 who was left behind by De Soto. When John Lederer reached the
 borders of Georgia the Spaniards were then at work at these mines,
 -----File: 158.png---\Over_50\richs\\dmack\donovan\------------------------
-[104]
+[092]
 which fact, as he informs us, checked his further advance, as he feared
 he might be made a captive by them. As further and conclusive evidence
 of this, we have only to state that the remains of their cabins in
 the vicinity of the mines were found in 1834 with trees from 2 to 3 feet
 in diameter growing over them. The old shafts were discovered in
-which they worked, as also some of the machinery they used.[104-1] Be
+which they worked, as also some of the machinery they used.[092-1] Be
 this supposition correct or not, if the articles we have mentioned were
 of European workmanship, or if the material was obtained of civilized
 people, we must take for granted, until evidence to the contrary is produced,
@@ -4241,17 +4238,17 @@ built on posts set in the ground at equal distances from each other, and
 each had a central pillar.
 
 As confirming this statement of Bartram, we are informed in Ramsey's
-Annals of Tennessee[104-2] that when Colonel Christian marched
+Annals of Tennessee[092-2] that when Colonel Christian marched
 against the Cherokee towns, in 1776, he found in the center of each "a
 circular tower rudely built and covered with dirt, 30 feet in diameter,
 and about 20 feet high. This tower was used as a council house and as
 a place for celebrating the green-corn dance and other national ceremonials."
-Lawson, who traveled through North Carolina in 1700, says:[104-3]
+Lawson, who traveled through North Carolina in 1700, says:[092-3]
 "They [the Indians] oftentimes make of this shell [alluding to a certain
 large sea shell] a sort of gorge, which they wear about their neck
 in a string, so it hangs on their collar, whereon is sometimes engraven a
 cross or some odd sort of figure which comes next in their fancy." Beverly,
-speaking of the Indians of Virginia, says:[104-4] "Of this shell they
+speaking of the Indians of Virginia, says:[092-4] "Of this shell they
 also make round tablets of about 4 inches in diameter, which they polish
 as smooth as the other, and sometimes they etch or grave thereon
 circles, stars, a half-moon, or any other figure, suitable to their fancy."
@@ -4262,7 +4259,7 @@ section, the Bureau assistants discovered shell ornaments precisely of
 the character described by these old writers. Some of them were smooth
 and without any devices engraved on them, but with holes for inserting 
 -----File: 159.png---\Over_50\richs\\dmack\donovan\------------------------
-[105]
+[093]
 the strings by which they were to be held in position; others were
 engraved with figures which would readily be taken for stars and half-moons,
 and one among the number had a cross engraved on it. The
@@ -4278,7 +4275,7 @@ in connection with the bowl, though some were without this addition,
 consisting only of the bowl, with a hole for the insertion of a cane or
 wooden stem.
 
-By turning to Adair's "History of the North American Indians,"[105-1]
+By turning to Adair's "History of the North American Indians,"[093-1]
 we find the following statement:
 
 /#
@@ -4296,7 +4293,7 @@ Not only were pipes made of soapstone found in these mounds, but
 two or three were obtained precisely of the form mentioned by Adair,
 with the fore part running out in front of the bowl; and another of the
 same form has been found in a mound on the Kanawha, which is at
-least suggestive. Jones says:[105-2]
+least suggestive. Jones says:[093-2]
 
 /#
 It has been more than hinted by at least one person whose statement is entitled to
@@ -4309,7 +4306,7 @@ and ornament foreign to and highly esteemed among the members of their own tribe
 This not only strengthens our conclusion, drawn from the presence
 of such pipes in the mounds alluded to, but may also assist in explaining
 the presence of the copper ornaments in them. The writer last
-quoted says:[105-3]
+quoted says:[093-3]
 
 /#
 Copper implements are rarely found in Georgia. The present [a copper ax] is the
@@ -4321,9 +4318,9 @@ could have secured that metal either in quantity or purity sufficient to have
 enabled them to manufacture this implement.
 #/
 -----File: 160.png---\Over_50\richs\\dmack\donovan\------------------------
-[106]
+[094]
 
-Adair says:[106-1]
+Adair says:[094-1]
 
 /#
 From the time we supplied them with our European ornaments they have used
@@ -4339,7 +4336,7 @@ of using just such ornaments as we find in these mounds.
 
 As showing that the Europeans began to trade copper to the Indians
 at a very early day, I call attention to a statement made by Beverly in
-his "History of Virginia."[106-2] Speaking of a settlement made at Powhatan,
+his "History of Virginia."[094-2] Speaking of a settlement made at Powhatan,
 six miles below the falls of James River, in 1609, he says it was
 "bought of Powhatan for a certain quantity of copper."
 
@@ -4349,7 +4346,7 @@ and taken by them from wrecks was quite large.
 
 But we are not yet through with the items under this class of testimony.
 
-Haywood, in his "Natural and Aboriginal History of Tennessee,"[106-3]
+Haywood, in his "Natural and Aboriginal History of Tennessee,"[094-3]
 says:
 
 /#
@@ -4386,7 +4383,7 @@ One soapstone pipe.
 
 Some pieces of smooth sheet-copper.
 -----File: 161.png---\carlyon-treloar\richs\\dmack\donovan\----------------
-[107]
+[095]
 
 Three conical copper ear-pendants.
 
@@ -4450,7 +4447,7 @@ of the Coosa, but that the latter was not within the territory of her tribe
 is expressly stated by Garcilasso de la Vega. I think it may be safely
 assumed that her people were Creeks; and, if so, that the people of
 -----File: 162.png---\Over_50\richs\\dmack\donovan\------------------------
-[108]
+[096]
 Guaxule, who, as we judge from the chroniclers of De Soto's expedition,
 were mound-builders, belonged to another distinct tribe.
 
@@ -4459,7 +4456,7 @@ be considered, says:
 
 /#
 La casa estava en un cerro alto, como de otras semejantes hemos dicho. Tenia
-toda ella al derredor un paseadero que podian pasearse por el seis hombres juntos.[108-1]
+toda ella al derredor un paseadero que podian pasearse por el seis hombres juntos.[096-1]
 The house was on a high hill (mound) similar to others we have already mentioned.
 It had all round about it a roadway on which six men could walk abreast.
 #/
@@ -4499,7 +4496,7 @@ The broad way winding around and up the side of the Etowah mound
 Georgia. It is a large mound, high, and one that would doubtless attract
 the attention of the Spanish soldiers; its dimensions indicate that
 -----File: 163.png---\carlyon-treloar\richs\\dmack\donovan\----------------
-[109]
+[097]
 the tribe by which it was built was strong in numbers and might easily
 send forth five hundred warriors to greet the Spaniards. The locality
 is also within the limits of De Soto's route as given by the best authorities;
@@ -4523,8 +4520,8 @@ from the question now under discussion, although belonging to the
 southern type of burial mounds not discussed in this paper, I will
 venture to give a description of its construction and contents as a means
 of comparison and as also bearing somewhat on the immediate question
-under discussion. This mound is the one marked <i>c</i> in Jones's plate;[109-1]
-also <i>c</i> in Colonel Whittlesey's figure 2.[109-2] A vertical section of it is given
+under discussion. This mound is the one marked <i>c</i> in Jones's plate;[097-1]
+also <i>c</i> in Colonel Whittlesey's figure 2.[097-2] A vertical section of it is given
 in Fig. 40. The measurements, as ascertained by Mr. Rogan, are as follows:
 Average diameter at the base, 120 feet; diameter of the level top,
 60 feet; height above the original surface of the ground, 16 feet. The
@@ -4539,7 +4536,7 @@ original surface of the ground, was composed of three horizontal layers;
 the bottom layer (No. 1) 10 feet thick, of rich, dark, and rather loose
 loam; the next (No. 2) 4 feet thick, of hard, beaten (or tramped) clay,
 -----File: 164.png---\Over_50\richs\\dmack\donovan\------------------------
-[110]
+[098]
 so tough and hard that it was difficult to penetrate it even with a pick;
 and the uppermost (No. 3) of sand and surface soil between 1 and 2
 feet thick. A trench was dug from opposite sides to the central core;
@@ -4569,7 +4566,7 @@ fallen slabs. Under the copper were the remains of a skin of some
 kind; and under this, coarse matting, probably of split cane. The skin
 and matting were both so rotten that they could be secured only in fragments.
 -----File: 165.png---\Over_50\richs\\dmack\donovan\------------------------
-[111]
+[099]
 At the left of the feet were two clay vessels, one a water-bottle,
 and the other a very small vase. On the right of the feet were some
 mussel and sea shells; and immediately under the feet two conch-shells
@@ -4624,7 +4621,7 @@ At <i>g</i> the remains of a child were found without any stones about
 them. Some shell beads were around the neck and wrists and an engraved
 shell on the breast.
 -----File: 166.png---\Over_50\richs\\dmack\donovan\------------------------
-[112]
+[100]
 
 Grave <i>h</i>.--A stone sepulcher, 1-1/2 feet square and 1 foot deep, stone
 slabs on the four sides and top; the bottom consisted simply of
@@ -4644,7 +4641,7 @@ neck rather more than a quart of the same.
 
 At <i>j</i> were the remains of a small child, without stone surroundings;
 -----File: 167.png---\Over_50\richs\\dmack\donovan\------------------------
-[113]
+[101]
 under the head was a piece of copper, and about the neck and wrists
 were shell beads.
 
@@ -4669,7 +4666,7 @@ design. A crown piece to the head ornament is also wanting.
 2. Also a human figure, shown in Fig. 43. Length, 16 inches; width,
 7-1/2 inches.
 -----File: 168.png---\Over_50\richs\\dmack\donovan\------------------------
-[114]
+[102]
 
 3. Figure of a bird; this is imperfect, as part of the head and the outer
 margin of the wings are wanting. Length, 13-1/2 inches; width 7-1/2 inches.
@@ -4702,7 +4699,7 @@ inches.
 5. Part of an ornament similar to No. 4. These plates, especially No. 4,
 appear to be enlarged patterns of that seen behind the head of Fig. 43.
 -----File: 169.png---\Over_50\richs\\dmack\donovan\------------------------
-[115]
+[103]
 
 [Illustration: <sc>Fig. 45.</sc>--Copper badge, from Etowah mound, Georgia.]
 
@@ -4720,7 +4717,7 @@ the dress or fastened on a staff.
 7. A fragment from the larger end of a piece similar to the preceding.
 Attached to this is a piece of cloth.
 -----File: 170.png---\Over_50\richs\\dmack\donovan\------------------------
-[116]
+[104]
 
 In addition to the foregoing, there are a number of small fragments
 probably broken from these plates, but, so far, I have been unable to fit
@@ -4744,16 +4741,16 @@ I shall at present simply call attention to one or two facts which appear
 to bear upon the age and distribution of these singular specimens
 of art.
 
-First. We notice the fact alluded to by Mr. Holmes,[116-1] which is
+First. We notice the fact alluded to by Mr. Holmes,[104-1] which is
 apparent to every one who inspects his accurately drawn figures, that
 in all their leading features the designs themselves are suggestive of
 Mexican or Central American work. Yet a close inspection brings
 -----File: 171.png---\Over_50\richs\\dmack\donovan\------------------------
-[117]
+[105]
 to light one or two features which are anomalies in Mexican or Central
 American designs; as, for example, in Figs. 42 and 43, where the wings
 are represented as <i>rising from the back of the shoulders</i>, a fact alluded
-to by Mr. Holmes.[117-1] Although we can find numerous figures of winged
+to by Mr. Holmes.[105-1] Although we can find numerous figures of winged
 individuals in Mexican designs (they are unknown in Central American),
 they always carry with them the idea that the individual is partly
 or completely clothed in the skin of the bird. This is partially carried
@@ -4783,7 +4780,7 @@ Powell, the director of the United States Geological Survey, from a
 mound near Peoria, Illinois. Another was obtained in Jackson County,
 Illinois, by Mr. Thing, from an ordinary stone grave. From another similar
 -----File: 172.png---\Over_50\richs\\dmack\donovan\------------------------
-[118]
+[106]
 grave, at the same place, he also obtained the plate represented in
 Fig. 49. Fragments of a similar plate were obtained by Mr. Earle from
 a stone grave in a mound in Alexander County, Illinois. All these specimens
@@ -4821,7 +4818,7 @@ works.
 Whatever may be our conclusion in reference to these questions, I
 think it will be conceded that the builders of these Etowah mounds belonged
 -----File: 173.png---\Over_50\richs\\dmack\donovan\------------------------
-[119]
+[107]
 to different tribes from those who erected the East Tennessee and
 North Carolina works, and hence, if we are right in regard to the latter,
 the Etowah mounds were not built by the Cherokees. The important
@@ -4835,7 +4832,7 @@ therefore, when taken in connection with the other evidence adduced,
 becomes strongly corroborative of the view that the Cherokees were the
 authors of the works in their territory.
 -----File: 174.png---\Over_50\richs\\dmack\donovan\------------------------
-[120]
+[108]
 
 
 
@@ -4890,11 +4887,11 @@ of them is fast giving way before recent investigations made in regard
 to the growth of forests, as it has been ascertained that the rings of
 trees are not a sure indication of age.
 -----File: 175.png---\Over_50\richs\\dmack\donovan\------------------------
-[121]
+[109]
 
 Quatrefages may not be correct in fixing the date of the appearance
 of the "Red skins" in the "basin of the Missouri" in the eighth or ninth
-century,[121-1] but nothing has been found in connection with the ancient
+century,[109-1] but nothing has been found in connection with the ancient
 works of this country, supposing the Indians to have been their authors,
 to prove that he has greatly erred in his calculation. Other
 races or peoples may have preceded the mound-builders in this region,
@@ -4907,14 +4904,14 @@ Eighth. That all the mounds which have been examined and carefully
 studied are to be attributed to the indigenous tribes found inhabiting
 this region and their ancestors.
 -----File: 176.png---\Over_50\richs\\dmack\donovan\------------------------
-[122]
+[110]
 
 
 
 
-SUPPLEMENTAL NOTE.[122-1]
+SUPPLEMENTAL NOTE.[110-1]
 
-BURIAL CEREMONIES OF THE HURONS.[122-2]
+BURIAL CEREMONIES OF THE HURONS.[110-2]
 
 
 Our savages are not savages as regards the duties which nature herself requires us
@@ -4959,7 +4956,7 @@ I am sometimes surprised to see them discourse a long time on this subject,
 and bring up, with much discretion, all considerations that may afford any consolation
 to the friends of the deceased.
 -----File: 177.png---\Over_50\kaet\\dmack\donovan\-------------------------
-[123]
+[111]
 
 Notice is also given of this death to the friends who live in other villages, and as
 each family employs another who has the care of their dead, they come as soon as
@@ -5023,7 +5020,7 @@ from the lips of the father of the child himself.
 When the funeral is over the mourning does not cease: the wife continues it all the
 year for her husband, the husband for the wife; but the grand mourning itself
 -----File: 178.png---\Over_50\stygiania\\dmack\donovan\--------------------
-[124]
+[112]
 lasts only ten days. During this time they remain lying on their mats wrapped in
 their robes, with their faces against the earth, without speaking or replying to anything,
 save <i>C[)o]ay</i>, to those who come to visit them. They do not warm themselves in
@@ -5088,7 +5085,7 @@ upon the order and the events of the feast.
 
 The twelve years or more having expired, the old people and great men of the nation
 -----File: 179.png---\dancingbarefoot\stygiania\\dmack\donovan\------------
-[125]
+[113]
 assemble to decide upon the time when the feast shall be held, so as to satisfy
 all the people of the country and the outside nations who are to be invited.
 
@@ -5152,7 +5149,7 @@ makes a feast to its dead.
 Returning from this festival with a captain, who has considerable intelligence and
 who will be some day of high standing in the affairs of the country, I asked him why
 -----File: 180.png---\Over_50\stygiania\\dmack\donovan\--------------------
-[126]
+[114]
 they called the bones of the dead <i>Atisken</i>. He explained as clearly as he could, and
 I learned from what he said that many believe that we have two souls, both divisible
 and material and yet both rational; one leaves the body at death, but remains, however,
@@ -5214,7 +5211,7 @@ and in reaching <i>Ossossané</i>, which we call Rochelle, where all the ceremoni
 be held. As soon as they arrive near any village they shout again the haéé haé. The
 whole village comes out to meet them; many presents are again distributed on this
 -----File: 181.png---\dancingbarefoot\stygiania\\dmack\donovan\------------
-[127]
+[115]
 occasion. Each one repairs to some one of the cabins; all find a place to put their bundles;
 this is done without confusion. At the same time the captains hold a council to
 decide upon the time that the company shall spend in this village. All the bodies
@@ -5274,7 +5271,7 @@ believed that this sand will render them happy at their games (au ieu).
 
 Of the twelve hundred offerings that had been exhibited on the platform, forty-eight
 -----File: 182.png---\huntsy\stygiania\\dmack\donovan\---------------------
-[128]
+[116]
 robes were to line and trim the grave, and each complete body had, besides the
 robe in which it was wrapped, another one, and some even two others, to cover it.
 This is all: so that I do not think [? but] that each body had one to itself, taking one
@@ -5336,7 +5333,7 @@ order to settle it peaceably it was necessary to cut it into so many pieces, and
 they came out nearly empty-handed, for these tatters were hardly worth the picking
 up. I admired here the industry of one savage. He did not hurry himself to run
 -----File: 183.png---\Over_50\stygiania\\dmack\donovan\--------------------
-[129]
+[117]
 after these flying pieces; but, as there is nothing so valuable this year in the country
 as tobacco (petun), he held some pieces of it in his hand, which he presented at once
 to those who were disputing over the skin, and thus acquired it for himself.
@@ -5397,7 +5394,7 @@ established by the authority of the whole country and honored in the midst of th
 heathenism, and they would have been careful not to impute to it afterwards, as they
 have done in the past, all the misfortunes that befell them.
 -----File: 184.png---\huntsy\stygiania\\dmack\donovan\---------------------
-[130]
+[118]
 
 This captain thought our proposition very reasonable and the old men (anciens) of
 the country remained very well contented with it. Some time after, the chaudiere was
@@ -5458,7 +5455,7 @@ this purpose, notwithstanding the tender affection they have for them; they prom
 to follow them one day and show us that they would not give us such precious pledges
 if they did not desire to keep faith with us. You would say that they were waiting
 -----File: 185.png---\Over_50\stygiania\\dmack\donovan\--------------------
-[131]
+[119]
 only to see some one among them to be the first to take this bold step and dare to go
 contrary to the custom of the country. They are, finally, a people who have a
 permanent home (demeure arrestée), are judicious, capable of reason, and well multiplied.
@@ -5561,139 +5558,139 @@ reader to his paper.]
 to the theory that these mounds or any others contain altars in the true sense
 of the term, as I very much doubt it.]
 
-[Footnote 031-1: Brevis Narratio, Plate XXX. Admiranda Narratio, Plate XIX]
+[Footnote 029-1: Brevis Narratio, Plate XXX. Admiranda Narratio, Plate XIX]
 
-[Footnote 031-2: M[oe]urs des Sauvages, II, p. 4.]
+[Footnote 029-2: M[oe]urs des Sauvages, II, p. 4.]
 
-[Footnote 032-1: See "Early Notices of the Indians of Ohio" by M. F. Force, pp. 18-20.]
+[Footnote 030-1: See "Early Notices of the Indians of Ohio" by M. F. Force, pp. 18-20.]
 
-[Footnote 037-1: According to Drake, "Indians of North America," he died October 3, 1838.]
+[Footnote 033-1: According to Drake, "Indians of North America," he died October 3, 1838.]
 
-[Footnote 044-1: Ancient Monuments, p. 162.]
+[Footnote 038-1: Ancient Monuments, p. 162.]
 
-[Footnote 045-1: Brevis Narratio, Tab. XI.]
+[Footnote 039-1: Brevis Narratio, Tab. XI.]
 
-[Footnote 045-2: American Antiquarian, October, 1881, p. 14.]
+[Footnote 039-2: American Antiquarian, October, 1881, p. 14.]
 
-[Footnote 050-1: Pages 533-6.]
+[Footnote 042-1: Pages 533-6.]
 
-[Footnote 051-1: Smithsonian Report 1881, p. 537.]
+[Footnote 043-1: Smithsonian Report 1881, p. 537.]
 
-[Footnote 052-1: Counting from the southern end of the line.]
+[Footnote 044-1: Counting from the southern end of the line.]
 
-[Footnote 053-1: Ancient Monuments, p. 161. It may be remarked here that the statement that
+[Footnote 045-1: Ancient Monuments, p. 161. It may be remarked here that the statement that
 "urn burial appears to have prevailed to a considerable extent in the Southern
 States" cannot be sustained by facts.]
 
-[Footnote 054-1: Smithsonian Report 1866, p. 359.]
+[Footnote 046-1: Smithsonian Report 1866, p. 359.]
 
-[Footnote 055-1: See, also, Smithsonian Report 1881, p. 596.]
+[Footnote 047-1: See, also, Smithsonian Report 1881, p. 596.]
 
-[Footnote 055-2: Smithonian[TN-01] Report 1877, p. 264.]
+[Footnote 047-2: Smithonian[TN-01] Report 1877, p. 264.]
 
-[Footnote 055-3: Page 598.]
+[Footnote 047-3: Page 598.]
 
-[Footnote 056-1: Page 35.]
+[Footnote 048-1: Page 35.]
 
-[Footnote 057-1: See 17th Report Peabody Museum, pp. 339-347.]
+[Footnote 049-1: See 17th Report Peabody Museum, pp. 339-347.]
 
-[Footnote 058-1: 17th Report Peabody Museum, pp. 342-343.]
+[Footnote 050-1: 17th Report Peabody Museum, pp. 342-343.]
 
-[Footnote 059-1: 17th Report Peabody Museum, p. 344.]
+[Footnote 051-1: 17th Report Peabody Museum, p. 344.]
 
-[Footnote 071-1: Early Notices of the Indians of Ohio, by M. F. Force, 1879, p. 3.]
+[Footnote 059-1: Early Notices of the Indians of Ohio, by M. F. Force, 1879, p. 3.]
 
-[Footnote 082-1: The circles and parallelograms in Figs. 32 and 33 have no other significance than
+[Footnote 070-1: The circles and parallelograms in Figs. 32 and 33 have no other significance than
 to indicate the relative positions of the graves and the positions of the skeletons.]
 
-[Footnote 083-1: M[oe]urs des Sauvages Amériquains, II, pp. 447-445.]
+[Footnote 071-1: M[oe]urs des Sauvages Amériquains, II, pp. 447-445.]
 
-[Footnote 083-2: Jesuit Relations for 1636, pp. 128-139. For a translation of the lively description
+[Footnote 071-2: Jesuit Relations for 1636, pp. 128-139. For a translation of the lively description
 of the burial ceremonies of the Hurons by Father Brebeuf, see "Supplemental Note,"
 at the end of this paper.]
 
-[Footnote 085-1: Smithsonian Report, 1871, pp. 404, 405.]
+[Footnote 073-1: Smithsonian Report, 1871, pp. 404, 405.]
 
-[Footnote 089-1: Smithsonian Report 1867, p. 401.]
+[Footnote 077-1: Smithsonian Report 1867, p. 401.]
 
-[Footnote 090-1: Smithsonian Report 1870, p. 378.]
+[Footnote 078-1: Smithsonian Report 1870, p. 378.]
 
-[Footnote 092-1: See, for example, Foster's "Prehistoric Races," p. 97; Squier and Davis's, "Ancient
+[Footnote 080-1: See, for example, Foster's "Prehistoric Races," p. 97; Squier and Davis's, "Ancient
 Monuments," p. 30; Baldwin's "Ancient America," p. 57; Bancroft's "Native Races,"
 IV, p. 785; Conant's "Foot-Prints of Vanished Races," p. 38; Marquis de Nadaillac's
 "L'Amérique Préhistorique," p. 185, etc.]
 
-[Footnote 093-1: Sixteenth and Seventeenth Report Peabody Museum, p. 346.]
+[Footnote 081-1: Sixteenth and Seventeenth Report Peabody Museum, p. 346.]
 
-[Footnote 094-1: Referred to by Dr. Haven, Smithsonian Contributions, VIII, p. 25.]
+[Footnote 082-1: Referred to by Dr. Haven, Smithsonian Contributions, VIII, p. 25.]
 
-[Footnote 094-2: Transactions of the American Philological Society, Vol,[TN-05] III. [TN-06]]
+[Footnote 082-2: Transactions of the American Philological Society, Vol,[TN-05] III. [TN-06]]
 
-[Footnote 094-3: Archæology of the United States, Smithsonian Contributions, Vol. VIII, p. 31.]
+[Footnote 082-3: Archæology of the United States, Smithsonian Contributions, Vol. VIII, p. 31.]
 
-[Footnote 095-1: Page 253.]
+[Footnote 083-1: Page 253.]
 
-[Footnote 095-2: Vol. I, p. 353, 3d edition.]
+[Footnote 083-2: Vol. I, p. 353, 3d edition.]
 
-[Footnote 095-3: Ancient America, pp. 70-75.]
+[Footnote 083-3: Ancient America, pp. 70-75.]
 
-[Footnote 095-4: American Antiquities, p. 71.]
+[Footnote 083-4: American Antiquities, p. 71.]
 
-[Footnote 095-5: Prehistoric Races, p. 339.]
+[Footnote 083-5: Prehistoric Races, p. 339.]
 
-[Footnote 099-1: Tenth Report Peabody Museum, p. 75.]
+[Footnote 087-1: Tenth Report Peabody Museum, p. 75.]
 
-[Footnote 099-2: Travels, p. 365.]
+[Footnote 087-2: Travels, p. 365.]
 
-[Footnote 100-1: Memoirs of the Kentucky Geological Survey, Vol. II.]
+[Footnote 088-1: Memoirs of the Kentucky Geological Survey, Vol. II.]
 
-[Footnote 101-1: Natural and Aboriginal History of Tennessee, p. 225.]
+[Footnote 089-1: Natural and Aboriginal History of Tennessee, p. 225.]
 
-[Footnote 101-2: Ramsey. Annals of Tennessee, p. 51.]
+[Footnote 089-2: Ramsey. Annals of Tennessee, p. 51.]
 
-[Footnote 101-3: Natural and Aboriginal History of Tennessee, p. 223.]
+[Footnote 089-3: Natural and Aboriginal History of Tennessee, p. 223.]
 
-[Footnote 101-4: Discoveries, etc., p. 3, London edition, 1672.]
+[Footnote 089-4: Discoveries, etc., p. 3, London edition, 1672.]
 
-[Footnote 103-1: Discoveries, London edition, p. 20.]
+[Footnote 091-1: Discoveries, London edition, p. 20.]
 
-[Footnote 103-2: Pages 33-39.]
+[Footnote 091-2: Pages 33-39.]
 
-[Footnote 104-1: Jones, Southern Indians, p. 18.]
+[Footnote 092-1: Jones, Southern Indians, p. 18.]
 
-[Footnote 104-2: Page 169.]
+[Footnote 092-2: Page 169.]
 
-[Footnote 104-3: History of Carolina, Raleigh, reprint, 1850, p. 315.]
+[Footnote 092-3: History of Carolina, Raleigh, reprint, 1850, p. 315.]
 
-[Footnote 104-4: History of Virginia, London, 1705, p. 58.]
+[Footnote 092-4: History of Virginia, London, 1705, p. 58.]
 
-[Footnote 105-1: Page 423.]
+[Footnote 093-1: Page 423.]
 
-[Footnote 105-2: Antiquities of the Southern Indians, p. 400.]
+[Footnote 093-2: Antiquities of the Southern Indians, p. 400.]
 
-[Footnote 105-3: Page 228.]
+[Footnote 093-3: Page 228.]
 
-[Footnote 106-1: History of North America.]
+[Footnote 094-1: History of North America.]
 
-[Footnote 106-2: Page 19.]
+[Footnote 094-2: Page 19.]
 
-[Footnote 106-3: Page 324.]
+[Footnote 094-3: Page 324.]
 
-[Footnote 108-1: History of Florida, edition 1723, Lib. III, Cap. XX, p. 139, and edition of 1605.]
+[Footnote 096-1: History of Florida, edition 1723, Lib. III, Cap. XX, p. 139, and edition of 1605.]
 
-[Footnote 109-1: Jones's Antiquities of the Southern Indians, Chap. VI, Pl. 1.]
+[Footnote 097-1: Jones's Antiquities of the Southern Indians, Chap. VI, Pl. 1.]
 
-[Footnote 109-2: Smithsonian Report 1880, p. 624.]
+[Footnote 097-2: Smithsonian Report 1880, p. 624.]
 
-[Footnote 116-1: Science, April 11, 1884.]
+[Footnote 104-1: Science, April 11, 1884.]
 
-[Footnote 117-1: Science, April, 1884.]
+[Footnote 105-1: Science, April, 1884.]
 
-[Footnote 121-1: The Human Species, English translation, p. 307.]
+[Footnote 109-1: The Human Species, English translation, p. 307.]
 
-[Footnote 122-1: Referred to on p. 71.]
+[Footnote 110-1: Referred to on p. 71.]
 
-[Footnote 122-2: Translated from Relations des Jésuites, 1636, pp. 128-139, by Miss Nora Thomas.]
+[Footnote 110-2: Translated from Relations des Jésuites, 1636, pp. 128-139, by Miss Nora Thomas.]
 -----File: 186.png---\huntsy\stygiania\\dmack\donovan\---------------------
 
 
