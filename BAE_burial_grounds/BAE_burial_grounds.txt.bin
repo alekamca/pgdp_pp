@@ -1,0 +1,406 @@
+%pagenumbers = (
+ 'Pg057' => {'offset' => '1.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg057.png---\garweyne\rnary' => {'offset' => '1.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg058' => {'offset' => '16.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg058.png---\Nattgew\rnary' => {'offset' => '16.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg059' => {'offset' => '16.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg060' => {'offset' => '42.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg061' => {'offset' => '42.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg062' => {'offset' => '145.71', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg063' => {'offset' => '176.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg064' => {'offset' => '223.3', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg065' => {'offset' => '277.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg066' => {'offset' => '327.69', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg067' => {'offset' => '380.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg068' => {'offset' => '411.40', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg069' => {'offset' => '454.63', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg070' => {'offset' => '497.57', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg071' => {'offset' => '525.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg072' => {'offset' => '565.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg073' => {'offset' => '614.5', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg074' => {'offset' => '666.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg075' => {'offset' => '712.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg076' => {'offset' => '759.59', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg077' => {'offset' => '825.12', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg078' => {'offset' => '895.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg079' => {'offset' => '937.53', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg080' => {'offset' => '991.64', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg081' => {'offset' => '1043.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg082' => {'offset' => '1043.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg083' => {'offset' => '1043.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg084' => {'offset' => '1096.69', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg085' => {'offset' => '1145.59', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg086' => {'offset' => '1197.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg087' => {'offset' => '1247.53', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg088' => {'offset' => '1250.7', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg089' => {'offset' => '1250.7', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg090' => {'offset' => '1291.36', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg091' => {'offset' => '1344.55', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg092' => {'offset' => '1361.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg093' => {'offset' => '1413.40', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg094' => {'offset' => '1462.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg095' => {'offset' => '1507.52', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg096' => {'offset' => '1508.21', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg097' => {'offset' => '1508.21', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg098' => {'offset' => '1544.51', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg099' => {'offset' => '1574.50', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg100' => {'offset' => '1626.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg101' => {'offset' => '1631.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg102' => {'offset' => '1631.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg103' => {'offset' => '1631.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg104' => {'offset' => '1680.61', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg105' => {'offset' => '1719.57', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg106' => {'offset' => '1763.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg107' => {'offset' => '1817.42', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg108' => {'offset' => '1870.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg109' => {'offset' => '1900.40', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg110' => {'offset' => '1963.69', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg111' => {'offset' => '2023.64', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg112' => {'offset' => '2097.46', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg113' => {'offset' => '2159.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg114' => {'offset' => '2212.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg115' => {'offset' => '2255.61', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg116' => {'offset' => '2292.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg117' => {'offset' => '2342.8', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg118' => {'offset' => '2344.5', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg119' => {'offset' => '2344.5', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg120' => {'offset' => '2399.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg121' => {'offset' => '2447.66', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg122' => {'offset' => '2492.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg123' => {'offset' => '2548.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg124' => {'offset' => '2548.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg125' => {'offset' => '2548.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg126' => {'offset' => '2603.45', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg127' => {'offset' => '2641.46', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg128' => {'offset' => '2698.46', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg129' => {'offset' => '2728.70', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg130' => {'offset' => '2767.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg131' => {'offset' => '2806.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg132' => {'offset' => '2828.49', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg133' => {'offset' => '2873.9', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg134' => {'offset' => '2903.9', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg135' => {'offset' => '2967.51', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg136' => {'offset' => '2993.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg137' => {'offset' => '3062.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg138' => {'offset' => '3116.56', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg139' => {'offset' => '3175.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg140' => {'offset' => '3238.17', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg141' => {'offset' => '3285.65', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg142' => {'offset' => '3332.11', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg143' => {'offset' => '3353.66', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg144' => {'offset' => '3422.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg145' => {'offset' => '3490.70', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg146' => {'offset' => '3553.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg147' => {'offset' => '3608.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg148' => {'offset' => '3668.57', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg149' => {'offset' => '3724.55', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg150' => {'offset' => '3774.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg151' => {'offset' => '3827.64', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg152' => {'offset' => '3882.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg153' => {'offset' => '3928.65', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg154' => {'offset' => '3990.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg155' => {'offset' => '4042.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg156' => {'offset' => '4096.61', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg157' => {'offset' => '4148.61', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg158' => {'offset' => '4197.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg159' => {'offset' => '4245.8', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg160' => {'offset' => '4302.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg161' => {'offset' => '4365.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg162' => {'offset' => '4430.11', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg163' => {'offset' => '4477.67', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg164' => {'offset' => '4516.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg165' => {'offset' => '4545.65', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg166' => {'offset' => '4600.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg167' => {'offset' => '4620.9', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg168' => {'offset' => '4643.13', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg169' => {'offset' => '4674.35', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg170' => {'offset' => '4691.37', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg171' => {'offset' => '4719.69', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg172' => {'offset' => '4752.68', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg173' => {'offset' => '4791.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg174' => {'offset' => '4806.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg175' => {'offset' => '4869.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg176' => {'offset' => '4887.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg177' => {'offset' => '4943.55', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg178' => {'offset' => '5018.54', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg179' => {'offset' => '5091.11', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg180' => {'offset' => '5164.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg181' => {'offset' => '5232.5', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg182' => {'offset' => '5301.15', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg183' => {'offset' => '5373.7', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg184' => {'offset' => '5442.54', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg185' => {'offset' => '5504.1', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg186' => {'offset' => '5748.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+);
+
+$bookmarks[0] = '5993.68';
+$proofers{'057'}[1] = 'garweyne';
+$proofers{'057'}[2] = 'rnary.stuart';
+$proofers{'058'}[1] = 'Nattgew';
+$proofers{'058'}[2] = 'rnary.stuart';
+$proofers{'059'}[1] = 'Nattgew';
+$proofers{'059'}[2] = 'carlyon';
+$proofers{'060'}[1] = 'Nattgew';
+$proofers{'060'}[2] = 'carlyon';
+$proofers{'061'}[1] = 'dustiepagez';
+$proofers{'061'}[2] = 'carlyon';
+$proofers{'062'}[1] = 'dustiepagez';
+$proofers{'062'}[2] = 'Njalsson';
+$proofers{'063'}[1] = 'gmiller';
+$proofers{'063'}[2] = 'Njalsson';
+$proofers{'064'}[1] = 'gmiller';
+$proofers{'064'}[2] = 'doloho';
+$proofers{'065'}[1] = 'gmiller';
+$proofers{'065'}[2] = 'doloho';
+$proofers{'066'}[1] = 'gmiller';
+$proofers{'066'}[2] = 'Njalsson';
+$proofers{'067'}[1] = 'gmiller';
+$proofers{'067'}[2] = 'carlyon';
+$proofers{'068'}[1] = 'gmiller';
+$proofers{'068'}[2] = 'carlyon';
+$proofers{'069'}[1] = 'gmiller';
+$proofers{'069'}[2] = 'carlyon';
+$proofers{'070'}[1] = 'gmiller';
+$proofers{'070'}[2] = 'carlyon';
+$proofers{'071'}[1] = 'gmiller';
+$proofers{'071'}[2] = 'carlyon';
+$proofers{'072'}[1] = 'gmiller';
+$proofers{'072'}[2] = 'carlyon';
+$proofers{'073'}[1] = 'gmiller';
+$proofers{'073'}[2] = 'carlyon';
+$proofers{'074'}[1] = 'sassanik';
+$proofers{'074'}[2] = 'carlyon';
+$proofers{'075'}[1] = 'sassanik';
+$proofers{'075'}[2] = 'carlyon';
+$proofers{'076'}[1] = 'Sedy';
+$proofers{'076'}[2] = 'carlyon';
+$proofers{'077'}[1] = 'Sedy';
+$proofers{'077'}[2] = 'Over_50';
+$proofers{'078'}[1] = 'Sedy';
+$proofers{'078'}[2] = 'Njalsson';
+$proofers{'079'}[1] = 'Sedy';
+$proofers{'079'}[2] = 'Njalsson';
+$proofers{'080'}[1] = 'Sedy';
+$proofers{'080'}[2] = 'Njalsson';
+$proofers{'081'}[1] = 'cmspence';
+$proofers{'081'}[2] = 'Njalsson';
+$proofers{'082'}[1] = 'cmspence';
+$proofers{'082'}[2] = 'Njalsson';
+$proofers{'083'}[1] = 'cmspence';
+$proofers{'083'}[2] = 'Njalsson';
+$proofers{'084'}[1] = 'Dennis M45';
+$proofers{'084'}[2] = 'Njalsson';
+$proofers{'085'}[1] = 'carlyon';
+$proofers{'086'}[1] = 'carlyon';
+$proofers{'087'}[1] = 'carlyon';
+$proofers{'088'}[1] = 'carlyon';
+$proofers{'089'}[1] = 'carlyon';
+$proofers{'090'}[1] = 'Dennis M45';
+$proofers{'090'}[2] = 'Redgold42';
+$proofers{'091'}[1] = 'Dennis M45';
+$proofers{'091'}[2] = 'Redgold42';
+$proofers{'092'}[1] = 'Dennis M45';
+$proofers{'092'}[2] = 'Redgold42';
+$proofers{'093'}[1] = 'Dennis M45';
+$proofers{'093'}[2] = 'Redgold42';
+$proofers{'094'}[1] = 'Dennis M45';
+$proofers{'094'}[2] = 'carlyon';
+$proofers{'095'}[1] = 'AmberK';
+$proofers{'095'}[2] = 'carlyon';
+$proofers{'096'}[1] = 'AmberK';
+$proofers{'096'}[2] = 'carlyon';
+$proofers{'097'}[1] = 'AmberK';
+$proofers{'097'}[2] = 'carlyon';
+$proofers{'098'}[1] = 'AmberK';
+$proofers{'098'}[2] = 'carlyon';
+$proofers{'099'}[1] = 'AmberK';
+$proofers{'099'}[2] = 'carlyon';
+$proofers{'100'}[1] = 'Dennis M45';
+$proofers{'100'}[2] = 'carlyon';
+$proofers{'101'}[1] = 'fleisch2';
+$proofers{'101'}[2] = 'carlyon';
+$proofers{'102'}[1] = 'fleisch2';
+$proofers{'102'}[2] = 'carlyon';
+$proofers{'103'}[1] = 'fleisch2';
+$proofers{'103'}[2] = 'carlyon';
+$proofers{'104'}[1] = 'fleisch2';
+$proofers{'104'}[2] = 'carlyon';
+$proofers{'105'}[1] = 'fleisch2';
+$proofers{'105'}[2] = 'carlyon';
+$proofers{'106'}[1] = 'fleisch2';
+$proofers{'106'}[2] = 'carlyon';
+$proofers{'107'}[1] = 'fleisch2';
+$proofers{'107'}[2] = 'carlyon';
+$proofers{'108'}[1] = 'fleisch2';
+$proofers{'108'}[2] = 'carlyon';
+$proofers{'109'}[1] = 'fleisch2';
+$proofers{'109'}[2] = 'carlyon';
+$proofers{'110'}[1] = 'fleisch2';
+$proofers{'110'}[2] = 'Jenijo';
+$proofers{'111'}[1] = 'fleisch2';
+$proofers{'111'}[2] = 'stygiania';
+$proofers{'112'}[1] = 'fleisch2';
+$proofers{'112'}[2] = 'Jenijo';
+$proofers{'113'}[1] = 'fleisch2';
+$proofers{'113'}[2] = 'Jenijo';
+$proofers{'114'}[1] = 'fleisch2';
+$proofers{'114'}[2] = 'Redgold42';
+$proofers{'115'}[1] = 'Dennis M45';
+$proofers{'115'}[2] = 'Redgold42';
+$proofers{'116'}[1] = 'fleisch2';
+$proofers{'116'}[2] = 'Redgold42';
+$proofers{'117'}[1] = 'carlyon';
+$proofers{'118'}[1] = 'carlyon';
+$proofers{'119'}[1] = 'carlyon';
+$proofers{'120'}[1] = 'bmckeever';
+$proofers{'120'}[2] = 'Njalsson';
+$proofers{'121'}[1] = 'e2l2l';
+$proofers{'121'}[2] = 'Bruce the first';
+$proofers{'122'}[1] = 'dustiepagez';
+$proofers{'122'}[2] = 'Redgold42';
+$proofers{'123'}[1] = 'Dennis M45';
+$proofers{'123'}[2] = 'Redgold42';
+$proofers{'124'}[1] = 'Dennis M45';
+$proofers{'124'}[2] = 'Redgold42';
+$proofers{'125'}[1] = 'Dennis M45';
+$proofers{'125'}[2] = 'Redgold42';
+$proofers{'126'}[1] = 'Dennis M45';
+$proofers{'126'}[2] = 'Redgold42';
+$proofers{'127'}[1] = 'Dennis M45';
+$proofers{'127'}[2] = 'Redgold42';
+$proofers{'128'}[1] = 'Dennis M45';
+$proofers{'128'}[2] = 'Redgold42';
+$proofers{'129'}[1] = 'Dennis M45';
+$proofers{'129'}[2] = 'Redgold42';
+$proofers{'130'}[1] = 'carlyon';
+$proofers{'131'}[1] = 'carlyon';
+$proofers{'132'}[1] = 'cindysbox';
+$proofers{'132'}[2] = 'adiantum';
+$proofers{'133'}[1] = 'carlyon';
+$proofers{'134'}[1] = 'carlyon';
+$proofers{'135'}[1] = 'carlyon';
+$proofers{'136'}[1] = 'carlyon';
+$proofers{'137'}[1] = 'carlyon';
+$proofers{'138'}[1] = 'carlyon';
+$proofers{'139'}[1] = 'carlyon';
+$proofers{'140'}[1] = 'carlyon';
+$proofers{'141'}[1] = 'carlyon';
+$proofers{'142'}[1] = 'carlyon';
+$proofers{'143'}[1] = 'carlyon';
+$proofers{'144'}[1] = 'carlyon';
+$proofers{'145'}[1] = 'carlyon';
+$proofers{'146'}[1] = 'carlyon';
+$proofers{'147'}[1] = 'LastLook';
+$proofers{'147'}[2] = 'carlyon';
+$proofers{'148'}[1] = 'LastLook';
+$proofers{'148'}[2] = 'carlyon';
+$proofers{'149'}[1] = 'LastLook';
+$proofers{'149'}[2] = 'nededd';
+$proofers{'150'}[1] = 'shado_jaguar';
+$proofers{'150'}[2] = 'scholarhere2';
+$proofers{'151'}[1] = 'dancingbarefoot';
+$proofers{'151'}[2] = 'scholarhere2';
+$proofers{'152'}[1] = 'Over_50';
+$proofers{'152'}[2] = 'scholarhere2';
+$proofers{'153'}[1] = 'Over_50';
+$proofers{'153'}[2] = 'Redgold42';
+$proofers{'154'}[1] = 'Over_50';
+$proofers{'154'}[2] = 'Redgold42';
+$proofers{'155'}[1] = 'Over_50';
+$proofers{'155'}[2] = 'Redgold42';
+$proofers{'156'}[1] = 'Over_50';
+$proofers{'156'}[2] = 'Redgold42';
+$proofers{'157'}[1] = 'Over_50';
+$proofers{'157'}[2] = 'Redgold42';
+$proofers{'158'}[1] = 'Over_50';
+$proofers{'158'}[2] = 'richs';
+$proofers{'159'}[1] = 'Over_50';
+$proofers{'159'}[2] = 'richs';
+$proofers{'160'}[1] = 'Over_50';
+$proofers{'160'}[2] = 'richs';
+$proofers{'161'}[1] = 'carlyon';
+$proofers{'162'}[1] = 'Over_50';
+$proofers{'162'}[2] = 'richs';
+$proofers{'163'}[1] = 'carlyon';
+$proofers{'164'}[1] = 'Over_50';
+$proofers{'164'}[2] = 'richs';
+$proofers{'165'}[1] = 'Over_50';
+$proofers{'165'}[2] = 'richs';
+$proofers{'166'}[1] = 'Over_50';
+$proofers{'166'}[2] = 'richs';
+$proofers{'167'}[1] = 'Over_50';
+$proofers{'167'}[2] = 'richs';
+$proofers{'168'}[1] = 'Over_50';
+$proofers{'168'}[2] = 'richs';
+$proofers{'169'}[1] = 'Over_50';
+$proofers{'169'}[2] = 'richs';
+$proofers{'170'}[1] = 'Over_50';
+$proofers{'170'}[2] = 'richs';
+$proofers{'171'}[1] = 'Over_50';
+$proofers{'171'}[2] = 'richs';
+$proofers{'172'}[1] = 'Over_50';
+$proofers{'172'}[2] = 'richs';
+$proofers{'173'}[1] = 'Over_50';
+$proofers{'173'}[2] = 'richs';
+$proofers{'174'}[1] = 'Over_50';
+$proofers{'174'}[2] = 'richs';
+$proofers{'175'}[1] = 'Over_50';
+$proofers{'175'}[2] = 'richs';
+$proofers{'176'}[1] = 'Over_50';
+$proofers{'176'}[2] = 'richs';
+$proofers{'177'}[1] = 'Over_50';
+$proofers{'177'}[2] = 'kaet';
+$proofers{'178'}[1] = 'Over_50';
+$proofers{'178'}[2] = 'stygiania';
+$proofers{'179'}[1] = 'dancingbarefoot';
+$proofers{'179'}[2] = 'stygiania';
+$proofers{'180'}[1] = 'Over_50';
+$proofers{'180'}[2] = 'stygiania';
+$proofers{'181'}[1] = 'dancingbarefoot';
+$proofers{'181'}[2] = 'stygiania';
+$proofers{'182'}[1] = 'huntsy';
+$proofers{'182'}[2] = 'stygiania';
+$proofers{'183'}[1] = 'Over_50';
+$proofers{'183'}[2] = 'stygiania';
+$proofers{'184'}[1] = 'huntsy';
+$proofers{'184'}[2] = 'stygiania';
+$proofers{'185'}[1] = 'Over_50';
+$proofers{'185'}[2] = 'stygiania';
+$proofers{'186'}[1] = 'huntsy';
+$proofers{'186'}[2] = 'stygiania';
+
+
+@operations = (
+'Mon Jun  6 23:35:48 2011 - Open /Users/alekamca/dp/pp/BAE_burial_grounds/BAE_burial_grounds.txt',
+'Mon Jun  6 23:36:14 2011 - Search & Replace',
+'Mon Jun  6 23:42:04 2011 - File Saved',
+'Mon Jun  6 23:42:19 2011 - Page Separators Fixup',
+'Mon Jun  6 23:53:31 2011 - File Saved',
+'Mon Jun  6 23:54:10 2011 - Word Frequency',
+'Tue Jun  7 00:05:54 2011 - File Saved',
+'Tue Jun  7 00:10:52 2011 - File Saved',
+'Tue Jun  7 00:10:52 2011 - Word Frequency',
+'Tue Jun  7 00:14:34 2011 - File Saved',
+'Tue Jun  7 00:51:05 2011 - Gutcheck',
+'Tue Jun  7 00:58:36 2011 - Gutcheck',
+'Tue Jun  7 01:00:06 2011 - File Saved',
+'Tue Jun  7 01:00:42 2011 - File Saved',
+'Wed Jun  8 17:49:34 2011 - Open /Users/alekamca/dp/pp/BAE_burial_grounds/BAE_burial_grounds.txt',
+'Wed Jun  8 17:52:43 2011 - Search & Replace',
+'Wed Jun  8 17:55:48 2011 - File Saved',
+'Wed Jun  8 21:58:52 2011 - Footnote Fixup',
+'Wed Jun  8 22:00:54 2011 - File Saved',
+'Wed Jun  8 22:01:39 2011 - File Saved',
+'Wed Jun  8 22:01:59 2011 - Gutcheck',
+'Wed Jun  8 22:13:27 2011 - File Saved',
+'Wed Jun  8 22:13:31 2011 - Gutcheck',
+'Wed Jun  8 22:13:58 2011 - End-of-line Spaces',
+'Wed Jun  8 22:14:02 2011 - Gutcheck',
+'Wed Jun  8 22:30:50 2011 - File Saved',
+);
+
+$spellindexbkmrk = '';
+
+$scannoslistpath = '';
+
+1;
